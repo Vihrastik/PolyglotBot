@@ -1,0 +1,3618 @@
+{
+  "Charakterzug": [
+    {
+      "german": "Charakter Eigenschaft",
+      "russian": "черта характера",
+      "english": "trait"
+    },
+    {
+      "german": "artig",
+      "russian": "добрый, послушный, воспитанный",
+      "english": "kind, well-behaved"
+    },
+    {
+      "german": "begabt",
+      "russian": "способный, одаренный",
+      "english": "gifted, talented"
+    },
+    {
+      "german": "eifrig",
+      "russian": "усердный, рьяный",
+      "english": "diligent, zealously"
+    },
+    {
+      "german": "fleißig",
+      "russian": "прилежный, усердный",
+      "english": "diligent, hard-working"
+    },
+    {
+      "german": "tüchtig",
+      "russian": "усердный, прилежный, эффективный",
+      "english": "diligent, hard-working"
+    },
+    {
+      "german": "bescheiden",
+      "russian": "скромный, неприхотливый, нетребовательный",
+      "english": "modest"
+    },
+    {
+      "german": "hilfsbereit",
+      "russian": "готовый помочь",
+      "english": "helpful"
+    },
+    {
+      "german": "höflich",
+      "russian": "вежливый, учтивый",
+      "english": "polite"
+    },
+    {
+      "german": "liebevoll",
+      "russian": "ласковый, преисполненный любви",
+      "english": "lovingly"
+    },
+    {
+      "german": "wissbegierig",
+      "russian": "любознательный",
+      "english": "inquisitive"
+    },
+    {
+      "german": "ehrlich",
+      "russian": "честный",
+      "english": "honest"
+    },
+    {
+      "german": "verantwortungsvoll",
+      "russian": "ответственный",
+      "english": "responsible"
+    },
+    {
+      "german": "gesellig",
+      "russian": "общительный, коммуникабельный",
+      "english": "sociable"
+    },
+    {
+      "german": "beherrscht",
+      "russian": "владеющий собой, сдержанный",
+      "english": "controlled"
+    },
+    {
+      "german": "aufgeschlossen",
+      "russian": "открытый",
+      "english": "open"
+    },
+    {
+      "german": "mutig",
+      "russian": "храбрый",
+      "english": "brave"
+    },
+    {
+      "german": "selbstlos",
+      "russian": "самоотверженный, бескорыстный",
+      "english": "selfless"
+    },
+    {
+      "german": "vielseitig interessiert",
+      "russian": "интересуется широким кругом вещей",
+      "english": "interested in a wide range of things"
+    },
+    {
+      "german": "humorvoll",
+      "russian": "забавный",
+      "english": "humorous"
+    },
+    {
+      "german": "lustig",
+      "russian": "веселый, радостный",
+      "english": "funny"
+    },
+    {
+      "german": "zuverlässig",
+      "russian": "надежный",
+      "english": "reliable"
+    },
+    {
+      "german": "ausdauernd",
+      "russian": "устойчивый",
+      "english": "sustained"
+    },
+    {
+      "german": "großzügig ",
+      "russian": "щедрый",
+      "english": "generous"
+    },
+    {
+      "german": "zärtlich ",
+      "russian": "нежный",
+      "english": "tender"
+    },
+    {
+      "german": "treu",
+      "russian": "верный, преданный",
+      "english": "faithful, loyal"
+    },
+    {
+      "german": "konsequent",
+      "russian": "последовательный",
+      "english": "consequent"
+    },
+    {
+      "german": "einfühlsam",
+      "russian": "чувствительный",
+      "english": "sensitive"
+    },
+    {
+      "german": "attraktiv",
+      "russian": "привлекательный",
+      "english": "attractive"
+    },
+    {
+      "german": "anpassungsfähig",
+      "russian": "адаптируемый, приспособляющийся",
+      "english": "adaptable"
+    },
+    {
+      "german": "schlagfertig",
+      "russian": "сообразительный, находчивый",
+      "english": "quick-witted"
+    },
+    {
+      "german": "selbstbewusst",
+      "russian": "уверенный в себе",
+      "english": "confident"
+    },
+    {
+      "german": "leidenschaftlich",
+      "russian": "страстный",
+      "english": "passionate"
+    },
+    {
+      "german": "entschlossen",
+      "russian": "решительный",
+      "english": "determined"
+    },
+    {
+      "german": "selbstsicher",
+      "russian": "уверенный в себе, самонадеянный",
+      "english": "self confident"
+    },
+    {
+      "german": "vernünftig ",
+      "russian": "здравомыслящий, разумный",
+      "english": "reasonable"
+    },
+    {
+      "german": "gründlich",
+      "russian": "тщательный, основательный",
+      "english": "thorough"
+    },
+    {
+      "german": "geduldig",
+      "russian": "терпеливый",
+      "english": "patient"
+    },
+    {
+      "german": "sparsam",
+      "russian": "бережливый, экономный",
+      "english": "thrifty"
+    },
+    {
+      "german": "grob",
+      "russian": "грубый",
+      "english": "rough"
+    },
+    {
+      "german": "eigenwillig",
+      "russian": "своенравный",
+      "english": "willful"
+    },
+    {
+      "german": "rechthaberisch",
+      "russian": "несговорчивый",
+      "english": "intractable"
+    },
+    {
+      "german": "verschwenderisch",
+      "russian": "расточительный",
+      "english": "wasteful"
+    },
+    {
+      "german": "anmaßend",
+      "russian": "некультурный",
+      "english": "presumptuous"
+    },
+    {
+      "german": "Eifersucht",
+      "russian": "ревность",
+      "english": "jealousy"
+    },
+    {
+      "german": "rücksichtslos",
+      "russian": "безрассудный",
+      "english": "reckless"
+    },
+    {
+      "german": "reizbar",
+      "russian": "раздражительный",
+      "english": "irritable"
+    },
+    {
+      "german": "zänkisch",
+      "russian": "сварливый, неуживчивый",
+      "english": "quarrelsome"
+    },
+    {
+      "german": "leicht beeinflussbar",
+      "russian": "легко манипулировать",
+      "english": "easy to manipulate"
+    },
+    {
+      "german": "launisch",
+      "russian": "капризный, своенравный",
+      "english": "moody"
+    },
+    {
+      "german": "unerzogen",
+      "russian": "невоспитанный",
+      "english": "ill-mannered"
+    },
+    {
+      "german": "stumpfsinnig ",
+      "russian": "тупой",
+      "english": "dull"
+    },
+    {
+      "german": "faul",
+      "russian": "ленивый",
+      "english": "lazy"
+    },
+    {
+      "german": "hochnäsig",
+      "russian": "высокомерный",
+      "english": "snooty"
+    },
+    {
+      "german": "neugierig",
+      "russian": "любопытный",
+      "english": "curious"
+    },
+    {
+      "german": "hinterhältig",
+      "russian": "подлый, коварный",
+      "english": "sneaky "
+    },
+    {
+      "german": "listig",
+      "russian": "хитрый",
+      "english": "cunning"
+    },
+    {
+      "german": "schweigsam",
+      "russian": "неразговорчивый",
+      "english": "uncommunicative"
+    },
+    {
+      "german": "schweigen",
+      "russian": "замолчать",
+      "english": "keep quiet"
+    },
+    {
+      "german": "jähzornig",
+      "russian": "вспыльчивый",
+      "english": "hot-tempered"
+    },
+    {
+      "german": "liederlich",
+      "russian": "распутный",
+      "english": "dissolute"
+    },
+    {
+      "german": "zurückhaltend",
+      "russian": "сдержанный, скрытный",
+      "english": "reserved"
+    },
+    {
+      "german": "feige",
+      "russian": "трусливый",
+      "english": "cowardly"
+    },
+    {
+      "german": "borniert",
+      "russian": "узкомыслящий",
+      "english": "narrow-minded"
+    },
+    {
+      "german": "traurig",
+      "russian": "грустный",
+      "english": "sad"
+    },
+    {
+      "german": "misstrauisch",
+      "russian": "подозрительный, недоверчивый",
+      "english": "suspicious"
+    },
+    {
+      "german": "verschlossen",
+      "russian": "закрытый",
+      "english": "closed"
+    },
+    {
+      "german": "geizig",
+      "russian": "скупой",
+      "english": "stingy"
+    },
+    {
+      "german": "großspurig",
+      "russian": "дерзкий, кичливый",
+      "english": "cocky"
+    },
+    {
+      "german": "eitel",
+      "russian": "тщеславный",
+      "english": "vain"
+    },
+    {
+      "german": "verwöhnt",
+      "russian": "избалованный",
+      "english": "spoiled"
+    },
+    {
+      "german": "stur",
+      "russian": "упрямый",
+      "english": "stubborn"
+    },
+    {
+      "german": "nachtragend",
+      "russian": "обиженный",
+      "english": "unforgiving"
+    },
+    {
+      "german": "bequem",
+      "russian": "комфортный",
+      "english": "comfortable"
+    },
+    {
+      "german": "oberflächlich",
+      "russian": "поверхностный",
+      "english": "superficial"
+    },
+    {
+      "german": "zerstreut",
+      "russian": "рассеянный",
+      "english": "absent-minded"
+    },
+    {
+      "german": "schwankend",
+      "russian": "колеблющийся, нетвердый",
+      "english": "hesitant"
+    },
+    {
+      "german": "schlampig",
+      "russian": "небрежный, неряшливый",
+      "english": "sloppy"
+    },
+    {
+      "german": "zimperlich",
+      "russian": "брезгливый",
+      "english": "disgusting"
+    },
+    {
+      "german": "erzdumm",
+      "russian": "чрезвычайно глупый",
+      "english": "extremely stupid"
+    },
+    {
+      "german": "hundsgemein",
+      "russian": "очень подло",
+      "english": "very mean"
+    },
+    {
+      "german": "kreuzbrav",
+      "russian": "очень честный",
+      "english": "very honest"
+    },
+    {
+      "german": "dickfellig",
+      "russian": "толстокожий",
+      "english": "thick-skinned"
+    },
+    {
+      "german": "wachsbleich",
+      "russian": "бледный как воск",
+      "english": "pale as wax"
+    },
+    {
+      "german": "leise",
+      "russian": "тихий",
+      "english": "quiet"
+    },
+    {
+      "german": "schlau",
+      "russian": "хитрый",
+      "english": "cunning"
+    },
+    {
+      "german": "veränderlich",
+      "russian": "непостоянный",
+      "english": "fickle"
+    },
+    {
+      "german": "leichtsinnig",
+      "russian": "беспечный, легкомысленный",
+      "english": "happy-go-lucky"
+    },
+    {
+      "german": "herrschsüchtig",
+      "russian": "властный",
+      "english": "bossy"
+    },
+    {
+      "german": "feinfühlig",
+      "russian": "чувствительный, чуткий, деликатный",
+      "english": "sensitive"
+    },
+    {
+      "german": "nachdenklich",
+      "russian": "задумчивый",
+      "english": "thoughtful"
+    },
+    {
+      "german": "zielbewusst",
+      "russian": "целеустремленный",
+      "english": "goal-oriented"
+    },
+    {
+      "german": "aufrichtig",
+      "russian": "искренний",
+      "english": "sincere"
+    },
+    {
+      "german": "gleichgültig",
+      "russian": "безразличный",
+      "english": "indifferent"
+    },
+    {
+      "german": "redselig",
+      "russian": "разговорчивый",
+      "english": "talkative"
+    },
+    {
+      "german": "ernst",
+      "russian": "серьезный",
+      "english": "serious"
+    },
+    {
+      "german": "Stubenhocker",
+      "russian": "домосед",
+      "english": "homebody"
+    },
+    {
+      "german": "verrückt",
+      "russian": "сумасшедший",
+      "english": "mad"
+    },
+    {
+      "german": "tollpatschig",
+      "russian": "неуклюжий",
+      "english": "clumsy"
+    },
+    {
+      "german": "anspruchsvolle",
+      "russian": "амбициозный, требовательный",
+      "english": "ambitious"
+    },
+    {
+      "german": "gebildet",
+      "russian": "образованный",
+      "english": "educated"
+    },
+    {
+      "german": "fuchsteufelswild",
+      "russian": "чертовски зол",
+      "english": "mad as hell"
+    },
+    {
+      "german": "geil",
+      "russian": "похотливый",
+      "english": "horny"
+    },
+    {
+      "german": "geschieden",
+      "russian": "разведенный",
+      "english": "divorced"
+    },
+    {
+      "german": "ledig",
+      "russian": "холостой/незамужняя",
+      "english": "single"
+    },
+    {
+      "german": "verheiratet",
+      "russian": "состоять в браке",
+      "english": "married"
+    },
+    {
+      "german": "verwitwet",
+      "russian": "овдоветь",
+      "english": "widowed"
+    },
+    {
+      "german": "vorsichtig",
+      "russian": "осторожный",
+      "english": "cautious"
+    },
+    {
+      "german": "aufgeregt",
+      "russian": "встревоженный",
+      "english": "excited"
+    },
+    {
+      "german": "klug",
+      "russian": "умный",
+      "english": "smart"
+    },
+    {
+      "german": "wankelmütig",
+      "russian": "непостоянный",
+      "english": "fickle"
+    }
+  ],
+  "Aussehen": [
+    {
+      "german": "schmal",
+      "russian": "узкий",
+      "english": "narrow"
+    },
+    {
+      "german": "feingeschnittenes Gesicht",
+      "russian": "тонко очерченное лицо",
+      "english": "finely carved face"
+    },
+    {
+      "german": "hageres Gesicht",
+      "russian": "худое лицо, изможденный",
+      "english": "gaunt face"
+    },
+    {
+      "german": "aufgedunsenes Gesicht",
+      "russian": "одутловатое лицо",
+      "english": "puffy face"
+    },
+    {
+      "german": "runzliges Gesicht",
+      "russian": "морщинистое лицо",
+      "english": "wrinkled face"
+    },
+    {
+      "german": "ausdrucksvolles Gesicht",
+      "russian": "выразительное лицо",
+      "english": "expressive face"
+    },
+    {
+      "german": "hartes Gesicht",
+      "russian": "суровое лицо",
+      "english": "hard face"
+    },
+    {
+      "german": "blühende Gesichtsfarbe",
+      "russian": "цветущий цвет лица",
+      "english": "blooming"
+    },
+    {
+      "german": "scharfe Gesichtszüge",
+      "russian": "острые черты лица",
+      "english": "sharp facial features"
+    },
+    {
+      "german": "markante Gesichtszüge",
+      "russian": "отличительные черты лица",
+      "english": "distinctive facial features"
+    },
+    {
+      "german": "grübchen in die wangen",
+      "russian": "ямочки на щеках",
+      "english": "dimples in the cheeks"
+    },
+    {
+      "german": "eingefallene wangen",
+      "russian": "впалые щеки",
+      "english": "sunken cheeks"
+    },
+    {
+      "german": "hervorstehende backenknochen",
+      "russian": "выдающиеся скулы",
+      "english": "prominent cheekbones"
+    },
+    {
+      "german": "stumpfes Kinn",
+      "russian": "тупой подбородок",
+      "english": "blunt chin"
+    },
+    {
+      "german": "hervorspringendes Kinn",
+      "russian": "выступающий подбородок",
+      "english": "prominent cheekbones"
+    },
+    {
+      "german": "breites Kinn",
+      "russian": "широкий подбородок",
+      "english": "broad chin"
+    },
+    {
+      "german": "kräftiges Kinn",
+      "russian": "сильный подбородок",
+      "english": "strong chin"
+    },
+    {
+      "german": "glattrasiertes Kinn",
+      "russian": "чисто выбритый подбородок",
+      "english": "clean-shaven chin"
+    },
+    {
+      "german": "niedrig",
+      "russian": "низкий",
+      "english": "short"
+    },
+    {
+      "german": "lebhaft",
+      "russian": "оживленный",
+      "english": "lively"
+    },
+    {
+      "german": "leuchtend",
+      "russian": "светящийся",
+      "english": "bright"
+    },
+    {
+      "german": "strahlend",
+      "russian": "сияющий",
+      "english": "shining"
+    },
+    {
+      "german": "tiefliegend",
+      "russian": "глубоко лежащий",
+      "english": "deep-lying"
+    },
+    {
+      "german": "hervorquellende",
+      "russian": "выпуклый",
+      "english": "bulging"
+    },
+    {
+      "german": "ausdruckslose",
+      "russian": "невыразительный",
+      "english": "expressionless"
+    },
+    {
+      "german": "spärlich",
+      "russian": "редкий",
+      "english": "sparse"
+    },
+    {
+      "german": "fein gezeichnete Augenbrauen",
+      "russian": "тонко нарисованные брови",
+      "english": "finely drawn eyebrows"
+    },
+    {
+      "german": "gewölbte Augenbrauen",
+      "russian": "изогнутые брови",
+      "english": "arched eyebrows"
+    },
+    {
+      "german": "gebogene Nase",
+      "russian": "изогнутый нос",
+      "english": "curved nose"
+    },
+    {
+      "german": "eine gerade Nase",
+      "russian": "прямой нос",
+      "english": "straight nose"
+    },
+    {
+      "german": "dick",
+      "russian": "толстый",
+      "english": "fat"
+    },
+    {
+      "german": "dünn",
+      "russian": "тонкий",
+      "english": "thin"
+    },
+    {
+      "german": "krumme Nase",
+      "russian": "кривой нос",
+      "english": "crooked nose"
+    },
+    {
+      "german": "Hakennase",
+      "russian": "Нос крючком",
+      "english": "hooknose"
+    },
+    {
+      "german": "Stupsnase",
+      "russian": "курносый нос",
+      "english": "snub nose"
+    },
+    {
+      "german": "zart",
+      "russian": "нежный",
+      "english": "tender"
+    },
+    {
+      "german": "bleich",
+      "russian": "бледный",
+      "english": "pale"
+    },
+    {
+      "german": "sinnlich",
+      "russian": "чувственный",
+      "english": "sensual"
+    },
+    {
+      "german": "Zöpf",
+      "russian": "Коса",
+      "english": "Braid"
+    },
+    {
+      "german": "geheimratsecken",
+      "russian": "залысины",
+      "english": "receding hairline"
+    },
+    {
+      "german": "kahl",
+      "russian": "лысый",
+      "english": "bald"
+    },
+    {
+      "german": "Dauerwelle",
+      "russian": "химзавивка",
+      "english": "permanent wave"
+    },
+    {
+      "german": "ähneln",
+      "russian": "быть похожим",
+      "english": "resemble"
+    },
+    {
+      "german": "mittelgroß",
+      "russian": "среднего роста",
+      "english": "medium-sized"
+    },
+    {
+      "german": "hochgewachsen ",
+      "russian": "высокий, рослый",
+      "english": "tall"
+    },
+    {
+      "german": "schlank ",
+      "russian": "стройная",
+      "english": "slim"
+    },
+    {
+      "german": "gut gebaut",
+      "russian": "хорошо сложенная",
+      "english": "well built"
+    },
+    {
+      "german": "die (Körper)Haltung",
+      "russian": "осанка",
+      "english": "posture"
+    },
+    {
+      "german": "selbstbewusst ",
+      "russian": "уверенная",
+      "english": "confident"
+    },
+    {
+      "german": "sicher ",
+      "russian": "уверенная",
+      "english": "certain"
+    },
+    {
+      "german": "steif ",
+      "russian": "безупречно ровная",
+      "english": "stiff"
+    },
+    {
+      "german": "krumm",
+      "russian": "искривленная, кривая",
+      "english": "crooked"
+    },
+    {
+      "german": "die Schultern",
+      "russian": "плечи",
+      "english": "shoulders"
+    },
+    {
+      "german": "breit ",
+      "russian": "широкие",
+      "english": "wide"
+    },
+    {
+      "german": "lockige Haare ",
+      "russian": "вьющиеся",
+      "english": "curly hair"
+    },
+    {
+      "german": "krause Haare ",
+      "russian": "кудрявые",
+      "english": "frizzy hair"
+    },
+    {
+      "german": "gepflegt",
+      "russian": "ухоженные",
+      "english": "groomed"
+    },
+    {
+      "german": "gefärbt ",
+      "russian": "окрашенные",
+      "english": "colored"
+    },
+    {
+      "german": "sommersprossig",
+      "russian": "веснушчатое",
+      "english": "freckled"
+    },
+    {
+      "german": "sonnengebräunt ",
+      "russian": "загорелое",
+      "english": "suntanned"
+    },
+    {
+      "german": "geblümt",
+      "russian": "в цветочек",
+      "english": "flowered"
+    },
+    {
+      "german": "gemustert ",
+      "russian": "узорчатый",
+      "english": "patterned"
+    },
+    {
+      "german": "gepunktet ",
+      "russian": "в крапинку",
+      "english": "dotted"
+    },
+    {
+      "german": "gestreift ",
+      "russian": "в полоску",
+      "english": "striped"
+    },
+    {
+      "german": "kariert ",
+      "russian": "в клетку",
+      "english": "checkered"
+    },
+    {
+      "german": "Die Person sieht … aus",
+      "russian": "Человек выглядит",
+      "english": "The person looks..."
+    },
+    {
+      "german": "angenehm ",
+      "russian": "приятно",
+      "english": "pleasant"
+    },
+    {
+      "german": "auffallend ",
+      "russian": "броско",
+      "english": "striking"
+    },
+    {
+      "german": "ausgezeichnet ",
+      "russian": "превосходно",
+      "english": "excellent"
+    },
+    {
+      "german": "entzückend ",
+      "russian": "восхитительно",
+      "english": "adorable"
+    },
+    {
+      "german": "erstaunlich ",
+      "russian": "поразительно, изумительно",
+      "english": "astonishing"
+    },
+    {
+      "german": "herrlich ",
+      "russian": "великолепно",
+      "english": "wonderful"
+    },
+    {
+      "german": "seltsam ",
+      "russian": "странно",
+      "english": "strange"
+    },
+    {
+      "german": "stilvoll ",
+      "russian": "стильно",
+      "english": "stylish"
+    },
+    {
+      "german": "toll ",
+      "russian": "отлично",
+      "english": "great"
+    },
+    {
+      "german": "ungewöhnlich ",
+      "russian": "необычно",
+      "english": "unusual"
+    },
+    {
+      "german": "übergewichtig",
+      "russian": "избыточный вес",
+      "english": "overweight"
+    },
+    {
+      "german": "froh",
+      "russian": "радостный",
+      "english": "glad"
+    }
+  ],
+  "Haus": [
+    {
+      "german": "die Brühe",
+      "russian": "бульон, отвар",
+      "english": "broth"
+    },
+    {
+      "german": "erhitzen ",
+      "russian": "нагреть ",
+      "english": "heat"
+    },
+    {
+      "german": "rühren ",
+      "russian": "мешать",
+      "english": "stir"
+    },
+    {
+      "german": "einrühren ",
+      "russian": "замешивать, вмешать",
+      "english": "stir in"
+    },
+    {
+      "german": "würzen ",
+      "russian": "приправлять, сдабривать",
+      "english": "spice"
+    },
+    {
+      "german": "schälen ",
+      "russian": "снимать кожуру",
+      "english": "peel"
+    },
+    {
+      "german": "abkühlen ",
+      "russian": "охладить",
+      "english": "cool down"
+    },
+    {
+      "german": "streuen ",
+      "russian": "посыпать",
+      "english": "sprinkle"
+    },
+    {
+      "german": "schneiden ",
+      "russian": "резать",
+      "english": "cut"
+    },
+    {
+      "german": "empfangen ",
+      "russian": "встречать ",
+      "english": "welcome",
+      "example": "Gäste empfangen"
+    },
+    {
+      "german": "räume den Tisch ab",
+      "russian": "убрать со стола",
+      "english": "clear the table"
+    },
+    {
+      "german": "der tisch decken",
+      "russian": "накрывать на стол",
+      "english": "set the table"
+    },
+    {
+      "german": "der Rauch",
+      "russian": "дым",
+      "english": "smoke"
+    },
+    {
+      "german": "der Schüssel",
+      "russian": "миска",
+      "english": "bowl"
+    },
+    {
+      "german": "gießen",
+      "russian": "налить",
+      "english": "pour",
+      "example": "jemand gießt die Pflanzen im Garten"
+    },
+    {
+      "german": "einschalten",
+      "russian": "включать",
+      "english": "turn on"
+    },
+    {
+      "german": "absätze",
+      "russian": "каблуки",
+      "english": "heels"
+    },
+    {
+      "german": "pelzmantel",
+      "russian": "шуба",
+      "english": "fur coat"
+    },
+    {
+      "german": "die Treppe",
+      "russian": "лестница",
+      "english": "stairs"
+    },
+    {
+      "german": "der Handschuh",
+      "russian": "перчатка",
+      "english": "glove"
+    },
+    {
+      "german": "die Mütze",
+      "russian": "шапка",
+      "english": "winter hat"
+    },
+    {
+      "german": "anhaben",
+      "russian": "быть одетым",
+      "english": "wear"
+    },
+    {
+      "german": "der Schimmel",
+      "russian": "плесень",
+      "english": "mould"
+    },
+    {
+      "german": "die Becher",
+      "russian": "бокал, стакан",
+      "english": "wineglass"
+    },
+    {
+      "german": "der Schalter",
+      "russian": "переключатель",
+      "english": "switch"
+    },
+    {
+      "german": "das Gerät",
+      "russian": "прибор, устройство",
+      "english": "device"
+    },
+    {
+      "german": "anmelden sich",
+      "russian": "авторизоваться, зарегистрироваться",
+      "english": "register, log in"
+    },
+    {
+      "german": "begießen",
+      "russian": "поливать",
+      "english": "pour water on"
+    },
+    {
+      "german": "der Besen",
+      "russian": "метла",
+      "english": "broom"
+    },
+    {
+      "german": "das Kehrblech",
+      "russian": "совок",
+      "english": "dustpan"
+    },
+    {
+      "german": "die Nebenkosten",
+      "russian": "коммунальные услуги",
+      "english": "public service"
+    },
+    {
+      "german": "der Stock",
+      "russian": "этаж",
+      "english": "floor"
+    },
+    {
+      "german": "einziehen",
+      "russian": "въезжатъ (в квартиру)",
+      "english": "move in"
+    },
+    {
+      "german": "ausziehen ",
+      "russian": "выезжать (из квартиры)",
+      "english": "move out"
+    },
+    {
+      "german": "umziehen ",
+      "russian": "переезжать",
+      "english": "move house"
+    },
+    {
+      "german": "der Sessel",
+      "russian": "кресло",
+      "english": "armchair"
+    },
+    {
+      "german": "die Heizung",
+      "russian": "отопление",
+      "english": "heating system"
+    },
+    {
+      "german": "der Aufzug",
+      "russian": "лифт",
+      "english": "elevator"
+    },
+    {
+      "german": "reparieren ",
+      "russian": "ремонтировать",
+      "english": "repair"
+    },
+    {
+      "german": "renovieren ",
+      "russian": "обновлять",
+      "english": "redecorate"
+    },
+    {
+      "german": "das Dach",
+      "russian": "крыша",
+      "english": "roof"
+    },
+    {
+      "german": "die Wand, (Wände) ",
+      "russian": "стена",
+      "english": "wall"
+    },
+    {
+      "german": "Erdgeschoss",
+      "russian": "первый этаж\t",
+      "english": "ground floor"
+    },
+    {
+      "german": "Der Kochtopf, Kochtöpfe",
+      "russian": "кастрюля",
+      "english": "pot"
+    },
+    {
+      "german": "die Pfanne, -n",
+      "russian": "сковородка",
+      "english": "pan"
+    },
+    {
+      "german": "das Bügeleisen, -",
+      "russian": "утюг",
+      "english": "iron"
+    },
+    {
+      "german": "die Seife, -n",
+      "russian": "мыло",
+      "english": "soap"
+    },
+    {
+      "german": "die Strumpf, Strümpfe",
+      "russian": "чулки",
+      "english": "stocking"
+    },
+    {
+      "german": "der Trainingsanzug, Trainingsanzüge",
+      "russian": "тренировочный костюм",
+      "english": "tracksuit"
+    },
+    {
+      "german": "das Hemd, -en",
+      "russian": "рубашка",
+      "english": "shirt"
+    },
+    {
+      "german": "die Sache, -n",
+      "russian": "вещь",
+      "english": "thing"
+    },
+    {
+      "german": "das Ding, -e",
+      "russian": "вещь",
+      "english": "thing"
+    },
+    {
+      "german": "der Vorhang, (Vorhänge) ",
+      "russian": "занавески",
+      "english": "curtain"
+    },
+    {
+      "german": "das Werkzeug, -e",
+      "russian": "инструмент",
+      "english": "tool"
+    },
+    {
+      "german": "einrichten",
+      "russian": "обставлять",
+      "english": "furnish"
+    },
+    {
+      "german": "die Pflanze, -n ",
+      "russian": "растение",
+      "english": "plants"
+    },
+    {
+      "german": "satt",
+      "russian": "сытый",
+      "english": "fed up"
+    },
+    {
+      "german": "die Kerze",
+      "russian": "свеча",
+      "english": "candle"
+    }
+  ],
+  "Phrasen": [
+    {
+      "german": "auf den Lorbeeren ausruhen",
+      "russian": "почивать на лаврах",
+      "english": "rest on your laurels"
+    },
+    {
+      "german": "etwas in Einklang bringen",
+      "russian": "привести что-то в гармонию",
+      "english": "bring something into harmony"
+    },
+    {
+      "german": "wer ist dran",
+      "russian": "Чья очередь",
+      "english": "whose turn is it"
+    },
+    {
+      "german": "machen mir keine Sorgen",
+      "russian": "не волнует",
+      "english": "don't worry"
+    },
+    {
+      "german": "sich benehmen",
+      "russian": "вести себя",
+      "english": "behave"
+    },
+    {
+      "german": "was habe ich damit zu tun?",
+      "russian": "Это мое дело?",
+      "english": "Is that my business?"
+    },
+    {
+      "german": "ohne Zweifel",
+      "russian": "вне сомнений",
+      "english": "without doubt"
+    },
+    {
+      "german": "außer Atem kommen",
+      "russian": "запыхаться",
+      "english": "get out of breath"
+    },
+    {
+      "german": "ist außer sich",
+      "russian": "вне себя",
+      "english": "lose one's temper"
+    },
+    {
+      "german": "bei Nacht und Nebel",
+      "russian": "под покровом ночи",
+      "english": "under the cover of darkness"
+    },
+    {
+      "german": "meiner Meinung nach",
+      "russian": "по моему мнению",
+      "english": "in my opinion",
+      "example": "nach meiner nicht ganz so bescheidenen Meinung"
+    },
+    {
+      "german": "Scham und Schande",
+      "russian": "Стыд и позор",
+      "english": "Shame and disgrace"
+    },
+    {
+      "german": "an deiner stelle",
+      "russian": "на твоем месте",
+      "english": "in your place"
+    },
+    {
+      "german": "einerseits",
+      "russian": "с одной стороны",
+      "english": "on the one hand"
+    },
+    {
+      "german": "andererseits",
+      "russian": "с другой стороны",
+      "english": "on the other hand"
+    },
+    {
+      "german": "Das übersteigt meine Kräfte",
+      "russian": "это выше моих сил",
+      "english": "this is beyond my strength"
+    },
+    {
+      "german": "Prachtkerl",
+      "russian": "красавчик",
+      "english": "gorgeous"
+    },
+    {
+      "german": "Trantüte",
+      "russian": "капуша",
+      "english": "very slow person"
+    },
+    {
+      "german": "Es gibt keine Lösung",
+      "russian": "нет решения",
+      "english": "there is no solution"
+    },
+    {
+      "german": "übrigens",
+      "russian": "кстати, между прочим",
+      "english": "by the way"
+    },
+    {
+      "german": "bestimmt",
+      "russian": "конечно",
+      "english": "certainly"
+    },
+    {
+      "german": "haben Lust auf",
+      "russian": "что-то хотеть",
+      "english": "have a desire for"
+    },
+    {
+      "german": "viel Erfolg",
+      "russian": "успехов",
+      "english": "good luck"
+    },
+    {
+      "german": "viel Spaß",
+      "russian": "всего хорошего",
+      "english": "have fun"
+    },
+    {
+      "german": "los geht's",
+      "russian": "пойдем",
+      "english": "let's go"
+    },
+    {
+      "german": "ich bin bereit",
+      "russian": "я готов",
+      "english": "I'm ready"
+    },
+    {
+      "german": "ich bin mit dir einverstanden",
+      "russian": "согласна с тобой",
+      "english": "I agree with you"
+    },
+    {
+      "german": "gehen wir doch einfach rein",
+      "russian": "давай просто войдем",
+      "english": "let's just go in"
+    },
+    {
+      "german": "Er runzelt die Stirn",
+      "russian": "Он хмурится",
+      "english": "He frowns"
+    },
+    {
+      "german": "ich schätze sie auf 15",
+      "russian": "Я оцениваю это в 15",
+      "english": "I estimate it to be 15"
+    },
+    {
+      "german": "Die Brille steht dir gut",
+      "russian": "Очки тебе очень идут",
+      "english": "The glasses looks good on you"
+    },
+    {
+      "german": "Diese Farbe passt gut zu deinen Augen",
+      "russian": "Этот цвет хорошо подходит к твоим глазам",
+      "english": "This color goes well with your eyes"
+    },
+    {
+      "german": "Hast du abgenommen?",
+      "russian": "Ты похудел(-а)?",
+      "english": "Did you lose weight?"
+    },
+    {
+      "german": "Du siehst ausgeruht aus",
+      "russian": "Выглядишь отдохнувшим",
+      "english": "You look rested"
+    },
+    {
+      "german": "In diesem Anzug sieht er gut aus",
+      "russian": "В этом костюме он выглядит хорошо",
+      "english": "He looks good in this suit"
+    },
+    {
+      "german": "Ich bekomme heute Besuch",
+      "russian": "ко мне сегодня гость",
+      "english": "I'm getting a visitor today"
+    },
+    {
+      "german": "Ich muss leider sofort wieder gehen",
+      "russian": "К сожалению, мне придется немедленно вернуться",
+      "english": "Unfortunately I have to go back immediately"
+    },
+    {
+      "german": "und dann alles wieder von vorn",
+      "russian": "а потом все сначала",
+      "english": "and then everything again from the beginning"
+    },
+    {
+      "german": "Furchtbar",
+      "russian": "ужас",
+      "english": "terrible"
+    },
+    {
+      "german": "lass es dir schmecken",
+      "russian": "приятного аппетита",
+      "english": "enjoy your meal"
+    },
+    {
+      "german": "ja stimmt",
+      "russian": "да",
+      "english": "Yes, that's right"
+    },
+    {
+      "german": "sind sie sich da sicher",
+      "russian": "Вы уверены",
+      "english": "Are you sure about that?"
+    },
+    {
+      "german": "darf es sonst noch etwas sein",
+      "russian": "что-то еще (в магазине)",
+      "english": "Can I get you anything else"
+    },
+    {
+      "german": "wir schaffen das",
+      "russian": "мы с этим справимся",
+      "english": "we deal with it"
+    },
+    {
+      "german": "ich bin sicher dass",
+      "russian": "Я уверен в том что",
+      "english": "I'm sure that"
+    },
+    {
+      "german": "abgemacht?",
+      "russian": "договорились",
+      "english": "agreed?"
+    },
+    {
+      "german": "Pechnase",
+      "russian": "лузер",
+      "english": "looser"
+    },
+    {
+      "german": "Pech haben",
+      "russian": "терпеть неудачу",
+      "english": "be unlucky"
+    },
+    {
+      "german": "Jemanden in Obhut übergeben",
+      "russian": "отдать кого-то под опеку",
+      "english": "to put someone in care"
+    },
+    {
+      "german": "Was machen Sie beruflich?",
+      "russian": "Кем Вы работаете?",
+      "english": "What do you do for a living?"
+    },
+    {
+      "german": "dafür sein",
+      "russian": "быть за",
+      "english": "be for"
+    },
+    {
+      "german": "dagegen sein",
+      "russian": "быть против",
+      "english": "be against"
+    },
+    {
+      "german": "mindestens",
+      "russian": "по меньшей мере",
+      "english": "at least"
+    },
+    {
+      "german": "ohne Zweifel",
+      "russian": "без сомнений",
+      "english": "without doubt"
+    },
+    {
+      "german": "die Zähne fletschen",
+      "russian": "скалить зубы",
+      "english": "baring your teeth"
+    },
+    {
+      "german": "So ein Quatsch",
+      "russian": "Какая ерунда",
+      "english": "What a crap"
+    },
+    {
+      "german": "Der Wille der Götter erschließt sich uns nicht",
+      "russian": "Воля богов нам не открыта",
+      "english": "We are not supposed to understand the will of the gods"
+    },
+    {
+      "german": "wagst du das",
+      "russian": "ты смеешь",
+      "english": "do you dare"
+    },
+    {
+      "german": "behalte es für dich",
+      "russian": "держи это при себе",
+      "english": "keep it to yourself"
+    },
+    {
+      "german": "ich hege Gefühle für dich",
+      "russian": "у меня есть к вам чувства",
+      "english": "I have feelings for you"
+    },
+    {
+      "german": "leb wohl",
+      "russian": "прощание",
+      "english": "farewell"
+    },
+    {
+      "german": "Ich will hier nicht als Südenbock dastehen",
+      "russian": "Я не хочу тут быть козлом отпущения"
+    }
+  ],
+  "Natur": [
+    {
+      "german": "der Kiefer",
+      "russian": "сосна",
+      "english": "jaw"
+    },
+    {
+      "german": "das Laub",
+      "russian": "листва",
+      "english": "leaves"
+    },
+    {
+      "german": "die Tanne",
+      "russian": "ель",
+      "english": "fir"
+    },
+    {
+      "german": "der Sumpf",
+      "russian": "болото",
+      "english": "swamp"
+    },
+    {
+      "german": "der Flieder",
+      "russian": "сирень",
+      "english": "lilac"
+    },
+    {
+      "german": "der Schmutz",
+      "russian": "грязь",
+      "english": "mud"
+    },
+    {
+      "german": "der Fluss",
+      "russian": "река",
+      "english": "river",
+      "example": "Ich gehe am Fluss spazieren"
+    },
+    {
+      "german": "die Birke",
+      "russian": "береза",
+      "english": "birch"
+    },
+    {
+      "german": "der Blitz",
+      "russian": "молния",
+      "english": "lightning"
+    },
+    {
+      "german": "das Gewitter",
+      "russian": "гроза",
+      "english": "thunderstorm"
+    },
+    {
+      "german": "der Nebel",
+      "russian": "туман",
+      "english": "fog"
+    },
+    {
+      "german": "Niederschlag",
+      "russian": "осадки",
+      "english": "precipitation"
+    },
+    {
+      "german": "bei Tagesanbruch",
+      "russian": "на рассвете",
+      "english": "dawn"
+    },
+    {
+      "german": "die Veilchen",
+      "russian": "фиалка",
+      "english": "violet"
+    },
+    {
+      "german": "der Storch",
+      "russian": "аист",
+      "english": "stork"
+    },
+    {
+      "german": "die Eiche",
+      "russian": "дуб",
+      "english": "oak"
+    },
+    {
+      "german": "das Maul",
+      "russian": "пасть",
+      "english": "mouth"
+    },
+    {
+      "german": "die Tatze",
+      "russian": "лапа",
+      "english": "paw"
+    },
+    {
+      "german": "der Strand",
+      "russian": "пляж",
+      "english": "beach"
+    },
+    {
+      "german": "die Küste",
+      "russian": "берег",
+      "english": "coast"
+    },
+    {
+      "german": "die Landschaft",
+      "russian": "пейзаж",
+      "english": "landscape"
+    },
+    {
+      "german": "die Umwelt",
+      "russian": "окружающая среда",
+      "english": "environment"
+    },
+    {
+      "german": "der Umweltschutz",
+      "russian": "защита окружающей среды",
+      "english": "environmental Protection"
+    },
+    {
+      "german": "das Klima",
+      "russian": "климат",
+      "english": "climate",
+      "example": "Das Klima verändert sich"
+    },
+    {
+      "german": "der Affe, -n",
+      "russian": "обезьяна",
+      "english": "monkey"
+    },
+    {
+      "german": "der Bär, -en ",
+      "russian": "медведь",
+      "english": "bear"
+    },
+    {
+      "german": "der Igel, -s",
+      "russian": "еж",
+      "english": "hedgehog"
+    },
+    {
+      "german": "der Löwe, -n",
+      "russian": "лев",
+      "english": "lion"
+    },
+    {
+      "german": "die Kuh, Kühe",
+      "russian": "корова",
+      "english": "cow"
+    },
+    {
+      "german": "die Schildkröte, -n",
+      "russian": "черепаха",
+      "english": "turtles"
+    },
+    {
+      "german": "der Donner",
+      "russian": "гром",
+      "english": "Thunder"
+    },
+    {
+      "german": "der Frost",
+      "russian": "мороз",
+      "english": "frost"
+    },
+    {
+      "german": "die Hitze ",
+      "russian": "жара",
+      "english": "heat"
+    },
+    {
+      "german": "die Wärme",
+      "russian": "тепло",
+      "english": "heat"
+    },
+    {
+      "german": "nass",
+      "russian": "мокро",
+      "english": "wet"
+    },
+    {
+      "german": "schwül",
+      "russian": "душный",
+      "english": "muggy"
+    },
+    {
+      "german": "das Schaf, -e",
+      "russian": "овца",
+      "english": "sheep"
+    },
+    {
+      "german": "das Ufer, -",
+      "russian": "берег",
+      "english": "shore"
+    },
+    {
+      "german": "roh",
+      "russian": "сырой",
+      "english": "raw"
+    },
+    {
+      "german": "das Feuer, - ",
+      "russian": "огонь",
+      "english": "fire"
+    },
+    {
+      "german": "die Art, -en",
+      "russian": "тип, вид",
+      "english": "species"
+    },
+    {
+      "german": "pflücken",
+      "russian": "срывать",
+      "english": "pluck, gather",
+      "example": " Auch in diesem Jahr werden wir Kirschen pflücken und verkaufen."
+    },
+    {
+      "german": "der Zweig",
+      "russian": "ветка",
+      "english": "twig"
+    },
+    {
+      "german": "die Ziege",
+      "russian": "коза",
+      "english": "goat"
+    },
+    {
+      "german": "zwitschern",
+      "russian": "щебетать",
+      "english": "chipper",
+      "example": "Die Vögel zwitschern im Garten."
+    }
+  ],
+  "Abstraktionen": [
+    {
+      "german": "der Heiterkeit",
+      "russian": "веселье",
+      "english": "Hilarity"
+    },
+    {
+      "german": "die Laune",
+      "russian": "настроение, расположение духа, каприз",
+      "english": "Mood"
+    },
+    {
+      "german": "Sinn für Humor",
+      "russian": "чувство юмора",
+      "english": "sense of humor"
+    },
+    {
+      "german": "der Faulheit",
+      "russian": "лень",
+      "english": "laziness"
+    },
+    {
+      "german": "die Sitte",
+      "russian": "обычай",
+      "english": "custom"
+    },
+    {
+      "german": "die Freude",
+      "russian": "радость",
+      "english": "joy"
+    },
+    {
+      "german": "der Witz",
+      "russian": "шутка",
+      "english": "joke"
+    },
+    {
+      "german": "die Gewohnheit, -en ",
+      "russian": "привычка",
+      "english": "habit"
+    },
+    {
+      "german": "die Dichte",
+      "russian": "плотность, густота",
+      "english": "concentration"
+    },
+    {
+      "german": "die Tiefe",
+      "russian": "глубина",
+      "english": "depth"
+    },
+    {
+      "german": "die Abscheu",
+      "russian": "отвращение",
+      "english": "disgust"
+    },
+    {
+      "german": "der Satz, (Sätze)",
+      "russian": "фраза",
+      "english": "sentence"
+    },
+    {
+      "german": "der Schluss",
+      "russian": "вывод",
+      "english": "conclusion"
+    },
+    {
+      "german": "der Vorschlag, (Vorschläge) ",
+      "russian": "предложение",
+      "english": "suggestion",
+      "example": "Wir hätten auf ihren Vorschlag hören sollen"
+    },
+    {
+      "german": "der Entspannung",
+      "russian": "расслабление",
+      "english": "relaxation"
+    },
+    {
+      "german": "die Ernährung",
+      "russian": "питание",
+      "english": "nutrition"
+    },
+    {
+      "german": "die Ewigkeit",
+      "russian": "вечность",
+      "english": "eternity"
+    },
+    {
+      "german": "die Wahrheit",
+      "russian": "правда",
+      "english": "truth"
+    }
+  ],
+  "Gesundheit": [
+    {
+      "german": "die Verletzung",
+      "russian": "травма",
+      "english": "injury"
+    },
+    {
+      "german": "die Wunde",
+      "russian": "рана",
+      "english": "wound"
+    },
+    {
+      "german": "die Narbe",
+      "russian": "шрам",
+      "english": "scar"
+    },
+    {
+      "german": "der Unfall",
+      "russian": "несчастный случай",
+      "english": "accident"
+    },
+    {
+      "german": "das Schmerzmittel",
+      "russian": "болеутоляющее средство",
+      "english": "painkiller"
+    },
+    {
+      "german": "Schmerztablette",
+      "russian": "болеутоляющее таблетка",
+      "english": "painkiller"
+    },
+    {
+      "german": "der Hals",
+      "russian": "шея",
+      "english": "neck"
+    },
+    {
+      "german": "die Wange",
+      "russian": "щека",
+      "english": "cheek"
+    },
+    {
+      "german": "der Wimper",
+      "russian": "ресница",
+      "english": "eyelash"
+    },
+    {
+      "german": "der Zunge",
+      "russian": "язык",
+      "english": "tongue"
+    },
+    {
+      "german": "der Hinterkopf",
+      "russian": "затылок",
+      "english": "the back of the head"
+    },
+    {
+      "german": "der Brustkorb",
+      "russian": "грудная клетка",
+      "english": "chest"
+    },
+    {
+      "german": "der Magen",
+      "russian": "желудок",
+      "english": "stomach"
+    },
+    {
+      "german": "der Bauch, Bäuche ",
+      "russian": "живот",
+      "english": "belly"
+    },
+    {
+      "german": "mein Hals tut weh",
+      "russian": "Болит горло",
+      "english": "My throat hurts"
+    },
+    {
+      "german": "das geht vorbei",
+      "russian": "пройдет само",
+      "english": "that will pass"
+    },
+    {
+      "german": "jemanden krankschreiben",
+      "russian": "выписать больничный",
+      "english": "write someone off sick"
+    },
+    {
+      "german": "die Erkältung",
+      "russian": "простуда",
+      "english": "cold"
+    },
+    {
+      "german": "das Glied",
+      "russian": "конечность",
+      "english": "part"
+    },
+    {
+      "german": "Gliederschmerzen",
+      "russian": "ломота в теле",
+      "english": "Body aches"
+    },
+    {
+      "german": "die Beutel",
+      "russian": "мешочек, саше",
+      "english": "sachet"
+    },
+    {
+      "german": "sich auflösen",
+      "russian": "растворить",
+      "english": "dissolve"
+    },
+    {
+      "german": "Bei Bedarf",
+      "russian": "при необходимости",
+      "english": "If necessary"
+    },
+    {
+      "german": "Tropfen",
+      "russian": "капли",
+      "english": "drops"
+    },
+    {
+      "german": "Verstaúchung",
+      "russian": "растяжение",
+      "english": "Sprain"
+    },
+    {
+      "german": "taub",
+      "russian": "глухой",
+      "english": "deaf"
+    },
+    {
+      "german": "das Gewicht, -e ",
+      "russian": "вес",
+      "english": "the weight"
+    },
+    {
+      "german": "einen Finger schneiden",
+      "russian": "порезать палец",
+      "english": "cut a finger"
+    },
+    {
+      "german": "die Knochen",
+      "russian": "кость",
+      "english": "bones"
+    },
+    {
+      "german": "die Arznei",
+      "russian": "лекарство, медикамент",
+      "english": "the medicine"
+    },
+    {
+      "german": "zunehmen",
+      "russian": "набрать вес",
+      "english": "gain weight"
+    },
+    {
+      "german": "abnehmen",
+      "russian": "худеть",
+      "english": "lose weight"
+    },
+    {
+      "german": "das Bett hüten",
+      "russian": "постельный режим, оставаться в постели",
+      "english": "stay in bed"
+    },
+    {
+      "german": "sich kümmern",
+      "russian": "заботиться",
+      "english": "take care",
+      "example": "Ich kümmere mich um dich. Ich kümmer mich um ein Problem"
+    },
+    {
+      "german": "pflegen",
+      "russian": "ухаживать, заботиться",
+      "english": "nurse, look after"
+    },
+    {
+      "german": "die Versicherung",
+      "russian": "страховка",
+      "english": "insurance"
+    },
+    {
+      "german": "aufpassen auf",
+      "russian": "заботиться, следить, быть внимательным",
+      "english": "take care of"
+    },
+    {
+      "german": "das Gehirn",
+      "russian": "мозг",
+      "english": "brain"
+    },
+    {
+      "german": "Fieber bekommen",
+      "russian": "температура",
+      "english": "get a fever"
+    },
+    {
+      "german": "Fieber senken",
+      "russian": "снизить температуру",
+      "english": "reduce fever"
+    },
+    {
+      "german": "eine Arznei gegen etwas verschreiben",
+      "russian": "прописать лекарство от чего-то",
+      "english": "prescribe a medicine for something"
+    },
+    {
+      "german": "sich einen Snupfen holen",
+      "russian": "подхватить насмотрк",
+      "english": "sniffles"
+    },
+    {
+      "german": "Puls fühlen",
+      "russian": "щупать пульс",
+      "english": "check pulse"
+    },
+    {
+      "german": "Blutdruck messen",
+      "russian": "измерьте кровяное давление",
+      "english": "Measure blood pressure"
+    },
+    {
+      "german": "Diagnose stellen",
+      "russian": "поставить диагноз",
+      "english": "make a diagnosis"
+    },
+    {
+      "german": "sich eine Komplikationen zuziehen",
+      "russian": "получить осложнения",
+      "english": "get complications"
+    },
+    {
+      "german": "Diät halten",
+      "russian": "держать диету",
+      "english": "diet"
+    },
+    {
+      "german": "der Ausschlag",
+      "russian": "сыпь",
+      "english": "rash"
+    },
+    {
+      "german": "der Juckreiz",
+      "russian": "зуд",
+      "english": "itching"
+    },
+    {
+      "german": "die Rötung",
+      "russian": "покраснение",
+      "english": "redness"
+    },
+    {
+      "german": "die Schüttelfrost",
+      "russian": "озноб",
+      "english": "chill"
+    },
+    {
+      "german": "das Unwohlsein",
+      "russian": "недомогание",
+      "english": "malaise"
+    },
+    {
+      "german": "niesen",
+      "russian": "чихать",
+      "english": "sneeze"
+    },
+    {
+      "german": "fit sein",
+      "russian": "быть в форме",
+      "english": "be fit"
+    },
+    {
+      "german": "sich mehr bewegen",
+      "russian": "больше двигаться",
+      "english": "to move more"
+    },
+    {
+      "german": "die körperliche Aktivität",
+      "russian": "физическая активность",
+      "english": "physical activity"
+    },
+    {
+      "german": "Kalorien verlieren",
+      "russian": "сжигать калории",
+      "english": "lose calories"
+    },
+    {
+      "german": "gesunde Nahrung",
+      "russian": "здоровая пища",
+      "english": "healthy food"
+    },
+    {
+      "german": "sich gesunde ernährung",
+      "russian": "есть здоровую пищу",
+      "english": "eat healthy food"
+    },
+    {
+      "german": "ausreichend trinken",
+      "russian": "пить достаточно",
+      "english": "drink enough"
+    },
+    {
+      "german": "sich verletzen",
+      "russian": "пораниться",
+      "english": "get hurt"
+    },
+    {
+      "german": "ich fühl mi wohl",
+      "russian": "Я чувствую себя хорошо",
+      "english": "I feel good"
+    },
+    {
+      "german": "ich fühle mich übel",
+      "russian": "Меня тошнит",
+      "english": "I feel nauseous"
+    },
+    {
+      "german": "der Hüfte",
+      "russian": "бедро",
+      "english": "hip"
+    },
+    {
+      "german": "die Schenkel",
+      "russian": "бедро, ляжка",
+      "english": "leg"
+    }
+  ],
+  "unsortiert": [
+    {
+      "german": "gleichfalls ",
+      "russian": "и тебе того же",
+      "english": "same to you"
+    },
+    {
+      "german": "selten",
+      "russian": "редко",
+      "english": "rarely"
+    },
+    {
+      "german": "meistens",
+      "russian": "по большей части",
+      "english": "mostly"
+    },
+    {
+      "german": "usw",
+      "russian": "и т. д.",
+      "english": "etc"
+    },
+    {
+      "german": "billig",
+      "russian": "дешевый",
+      "english": "cheap"
+    },
+    {
+      "german": "teuer",
+      "russian": "дорогой",
+      "english": "expensive"
+    },
+    {
+      "german": "flach",
+      "russian": "плоский",
+      "english": "flat"
+    },
+    {
+      "german": "eng",
+      "russian": "узко",
+      "english": "tight"
+    },
+    {
+      "german": "vielleicht",
+      "russian": "возможно",
+      "english": "perhaps"
+    },
+    {
+      "german": "der Punkt",
+      "russian": "точка",
+      "english": "the point"
+    },
+    {
+      "german": "das Komma",
+      "russian": "запятая",
+      "english": "the comma"
+    },
+    {
+      "german": "geradeaus",
+      "russian": "прямо, напрямик",
+      "english": "straight ahead"
+    },
+    {
+      "german": "ungefähr",
+      "russian": "приблизительно, примерно",
+      "english": "approximately"
+    },
+    {
+      "german": "der Lohn",
+      "russian": "заработная плата",
+      "english": "salary"
+    },
+    {
+      "german": "der Ausweis",
+      "russian": "документы",
+      "english": "ID"
+    },
+    {
+      "german": "der Stau",
+      "russian": "пробка",
+      "english": "traffic jam"
+    },
+    {
+      "german": "leise",
+      "russian": "тихий",
+      "english": "quiet"
+    },
+    {
+      "german": "der Bengel",
+      "russian": "сорванец",
+      "english": "tomboy"
+    },
+    {
+      "german": "tadellos",
+      "russian": "безупречный",
+      "english": "perfect"
+    },
+    {
+      "german": "eigentlich",
+      "russian": "собственно, в сущности, на самом деле",
+      "english": "actually"
+    },
+    {
+      "german": "unbedingt",
+      "russian": "непременно, обязательно",
+      "english": "absolutely"
+    },
+    {
+      "german": "der Wortschatz",
+      "russian": "словарный запас",
+      "english": "vocabulary"
+    },
+    {
+      "german": "nebenjob",
+      "russian": "неполная занятость",
+      "english": "part-time job"
+    },
+    {
+      "german": "vorübergehend",
+      "russian": "временный",
+      "english": "temporary"
+    },
+    {
+      "german": "umsonst",
+      "russian": "бесплатно",
+      "english": "for free"
+    },
+    {
+      "german": "günstig",
+      "russian": "дешевый, выгодный",
+      "english": "cheap"
+    },
+    {
+      "german": "schlimm",
+      "russian": "ужасный",
+      "english": "terrible",
+      "example": "War es wirklich schlimm mit der kälte"
+    },
+    {
+      "german": "die Geldbörse",
+      "russian": "бумажник",
+      "english": "wallet"
+    },
+    {
+      "german": "leer",
+      "russian": "пустой",
+      "english": "empty"
+    },
+    {
+      "german": "der Dolmetscher, - ",
+      "russian": "переводчик",
+      "english": "interpreter"
+    },
+    {
+      "german": "der Kellner, - ",
+      "russian": "официант",
+      "english": "waiter"
+    },
+    {
+      "german": "der Kaufmann, Kaufleute",
+      "russian": "предприниматель",
+      "english": "merchant"
+    },
+    {
+      "german": "der Schauspieler, -",
+      "russian": "актёр",
+      "english": "actor"
+    },
+    {
+      "german": "der Schlosser, - ",
+      "russian": "слесарь",
+      "english": "locksmith"
+    },
+    {
+      "german": "der Schriftsteller, -",
+      "russian": "писатель",
+      "english": "writer"
+    },
+    {
+      "german": "die Geschichte, -n",
+      "russian": "история",
+      "english": "stories"
+    },
+    {
+      "german": "die Puppe, -n",
+      "russian": "кукла",
+      "english": "doll"
+    },
+    {
+      "german": "die Mannschaft, -en",
+      "russian": "команда",
+      "english": "team"
+    },
+    {
+      "german": "einfach",
+      "russian": "простой",
+      "english": "simple"
+    },
+    {
+      "german": "die Beratung, -en",
+      "russian": "консультация",
+      "english": "advice"
+    },
+    {
+      "german": "die Erfahrung, -en",
+      "russian": "опыт",
+      "english": "experience"
+    },
+    {
+      "german": "der Unterricht, -e ",
+      "russian": "урок",
+      "english": "lesson"
+    },
+    {
+      "german": "fortwährend",
+      "russian": "постоянно",
+      "english": "continual"
+    },
+    {
+      "german": "übermorgen",
+      "russian": "послезавтра",
+      "english": "the day after tomorrow"
+    },
+    {
+      "german": "hässlich",
+      "russian": "уродливый",
+      "english": "ugly"
+    }
+  ],
+  "Verben": [
+    {
+      "german": "vergleichen ",
+      "russian": "сравнивать",
+      "english": "compare",
+      "example": "Vergleichen Sie die beiden Texte! Das kann man doch überhaupt nicht miteinander vergleichen!"
+    },
+    {
+      "german": "holen ",
+      "russian": "приносить",
+      "english": "fetch",
+      "example": "Hol doch bitte die Gläser aus dem Schrank! Ich glaube, ich habe mir eine Erkältung geholt."
+    },
+    {
+      "german": "versuchen ",
+      "russian": "пытаться",
+      "english": "try",
+      "example": "Man sollte es wenigstens versucht haben."
+    },
+    {
+      "german": "zeigen",
+      "russian": "показывать",
+      "english": "show",
+      "example": "Ich zeig dir mal n paar Fotos"
+    },
+    {
+      "german": "schauen",
+      "russian": "смотреть",
+      "english": "look",
+      "example": "Schau nicht so blöd! Du musst ein bisschen besser auf deine Sachen schauen."
+    },
+    {
+      "german": "raten",
+      "russian": "советовать",
+      "english": "advise",
+      "example": "Ich rate dir dazu, die Chance zu ergreifen."
+    },
+    {
+      "german": "überreichen",
+      "russian": "вручать",
+      "english": "present",
+      "example": "ein Geschenk überreichen"
+    },
+    {
+      "german": "genießen",
+      "russian": "наслаждаться",
+      "english": "enjoy",
+      "example": "seinen Urlaub genießen"
+    },
+    {
+      "german": "wählen",
+      "russian": "выбирать",
+      "english": "choose",
+      "example": "Ich verstehe nicht, warum diese nette Frau diesen blöden Kerl gewählt hat."
+    },
+    {
+      "german": "bezahlen",
+      "russian": "платить",
+      "english": "pay",
+      "example": "Für den Stapel Bücher hat er ihr 50 Euro bezahlt."
+    },
+    {
+      "german": "entscheiden",
+      "russian": "принимать решение",
+      "english": "decide",
+      "example": "das Gericht wird den Streit entscheiden"
+    },
+    {
+      "german": "überraschen",
+      "russian": "удивлять",
+      "english": "surprise",
+      "example": " das Gewitter überraschte uns"
+    },
+    {
+      "german": "empfehlen",
+      "russian": "рекомендовать",
+      "english": "recommend",
+      "example": "ich kann ihn dir [als Fachmann] sehr empfehlen"
+    },
+    {
+      "german": "erkennen",
+      "russian": "узнавать",
+      "english": "recognize",
+      "example": "in der Dunkelheit niemanden erkennen können"
+    },
+    {
+      "german": "sich streiten mit D uber/um Akk",
+      "russian": "спорить, ссориться",
+      "english": "argue",
+      "example": "Seine Eltern streiten sich jeden Tag über unwichtige Dinge. Ich hasse es auch, wenn wir uns streiten"
+    },
+    {
+      "german": "riechen",
+      "russian": "нюхать",
+      "english": "sniff",
+      "example": "Mit meinem Schnupfen rieche ich überhaupt nichts."
+    },
+    {
+      "german": "verwenden",
+      "russian": "использовать, применять",
+      "english": "use",
+      "example": "zum Kochen nur Butter verwenden"
+    },
+    {
+      "german": "zerstören",
+      "russian": "разрушать",
+      "english": "destroy",
+      "example": "Zerstör du meine Ehe, und du wirst deines Lebens nicht mehr glücklich!"
+    },
+    {
+      "german": "erben",
+      "russian": "наследовать",
+      "english": "inherit",
+      "example": "Es gab bei ihm nichts zu erben."
+    },
+    {
+      "german": "begegene",
+      "russian": "сталкиваться, случайно встретить",
+      "english": "encounter, come across",
+      "example": "Ich begegnete ihr zum ersten Mal auf meinem Weg nach Hause von der Bibliothek."
+    },
+    {
+      "german": "begrüßen",
+      "russian": "приветствовать",
+      "english": "greet",
+      "example": "Unser Trainer begrüßt meine Idee für eine neue Spieltaktik gar nicht."
+    },
+    {
+      "german": "sich verabschieden",
+      "russian": "прощаться",
+      "english": "say goodbye",
+      "example": "Du musst dich jetzt verabschieden"
+    },
+    {
+      "german": "verdienen",
+      "russian": "зарабатывать",
+      "english": "earn",
+      "example": "Was verdienst du hier?"
+    },
+    {
+      "german": "einladen",
+      "russian": "приглашать",
+      "english": "invite",
+      "example": "Ich möchte Sie zu unserer Feier einladen."
+    },
+    {
+      "german": "sich verlaufen",
+      "russian": "заблудиться, потеряться",
+      "english": "get lost",
+      "example": "Hänsel und Gretel haben sich im Wald verlaufen."
+    },
+    {
+      "german": "gucken",
+      "russian": "глядеть, смотреть, выглядывать",
+      "english": "watch",
+      "example": "Guck mal, was ich hier habe! Warum guckst du heute so traurig? Guck nicht so blöd!"
+    },
+    {
+      "german": "vorlesen",
+      "russian": "читать вслух",
+      "english": "read aloud",
+      "example": "Der Vater liest seinen Kindern jeden Abend eine Geschichte vor."
+    },
+    {
+      "german": "klatschen",
+      "russian": "хлопать в ладоши",
+      "english": "clap",
+      "example": "Am Ende des Stücks wurde lange Beifall geklatscht."
+    },
+    {
+      "german": "sich beeilen",
+      "russian": "спешить",
+      "english": "hurry up",
+      "example": "Sie mussten sich sehr beeilen, um den Bus noch zu erreichen."
+    },
+    {
+      "german": "sich ausruhen",
+      "russian": "отдыхать",
+      "english": "rest",
+      "example": "Er ruhte von seinem Tagwerk aus."
+    },
+    {
+      "german": "sich erholen",
+      "russian": "отдыхать, поправляться",
+      "english": "to recover",
+      "example": "Frohe Feiertage und erholt euch schön!"
+    },
+    {
+      "german": "sterben",
+      "russian": "умирать",
+      "english": "die",
+      "example": "Er starb im Alter von 82 Jahren."
+    },
+    {
+      "german": "verlieren",
+      "russian": "терять, проигрывать",
+      "english": "lose",
+      "example": "Sie haben gerade ihr Taschentuch verloren."
+    },
+    {
+      "german": "loben",
+      "russian": "хвалить",
+      "english": "praise",
+      "example": "Der Lehrer hat mich gelobt, weil ich diese Aufgabe sehr schnell gelöst habe."
+    },
+    {
+      "german": "tadeln",
+      "russian": "обвинять, осуждать",
+      "english": "blame",
+      "example": "Der Lehrer tadelt seine Schüler, weil sie die Vokabeln nicht beherrschen."
+    },
+    {
+      "german": "wetten",
+      "russian": "делать ставку, держать пари",
+      "english": "bet",
+      "example": "Die Besucher einer Pferderennbahn wetten auf das siegreiche Pferd."
+    },
+    {
+      "german": "werfen",
+      "russian": "бросать, забрасывать",
+      "english": "throw",
+      "example": "Er wirft den Ball ziemlich weit."
+    },
+    {
+      "german": "wetteifern",
+      "russian": "соревноваться",
+      "english": "compete",
+      "example": "miteinander wetteifern"
+    },
+    {
+      "german": "begeistern",
+      "russian": "вдохновлять, воодушевить",
+      "english": "inspire",
+      "example": "jemanden für eine Sache begeistern"
+    },
+    {
+      "german": "beleidigen",
+      "russian": "обижать",
+      "english": "insult",
+      "example": "jemanden tief, tödlich beleidigen"
+    },
+    {
+      "german": "verteidigen",
+      "russian": "защищать",
+      "english": "defend",
+      "example": "jemanden, jemandes Meinung gegen Angriffe aus dem Publikum verteidigen"
+    },
+    {
+      "german": "fassen",
+      "russian": "хватать, ловить",
+      "english": "grasp",
+      "example": "Er fasste sie um die Taille."
+    },
+    {
+      "german": "borgen",
+      "russian": "занимать, одалживать",
+      "english": "borrow, lend",
+      "example": "Ich borge dir mein Rad."
+    },
+    {
+      "german": "ausleihen",
+      "russian": "давать напрокат",
+      "english": "borrow, lend",
+      "example": "Dieses Buch kannst du dir in der öffentlichen Bibliothek ausleihen."
+    },
+    {
+      "german": "sich leisten",
+      "russian": "позволять себе",
+      "english": "afford",
+      "example": "Ich kann mir endlich ein besseres Auto leisten."
+    },
+    {
+      "german": "verabreden",
+      "russian": "назначить свидание",
+      "english": "make a date",
+      "example": "Paula und Johann verabreden ein Treffen für die nächste Woche."
+    },
+    {
+      "german": "kuscheln",
+      "russian": "обнимать",
+      "english": "cuddle",
+      "example": "Die beiden kuschelten zusammen."
+    },
+    {
+      "german": "gewöhnen sich an",
+      "russian": "привыкать к",
+      "english": "get used to ",
+      "example": "jemanden an etwas gewöhnen"
+    },
+    {
+      "german": "trennen",
+      "russian": "разделять, расставаться",
+      "english": "divide",
+      "example": "Hier wird das Öl vom Wasser getrennt."
+    },
+    {
+      "german": "abhängen von D",
+      "russian": "зависеть",
+      "english": "depend on",
+      "example": "Das hängt davon ab, wie das Wetter wird."
+    },
+    {
+      "german": "siegen",
+      "russian": "побеждать",
+      "english": "win",
+      "example": "Im zweiten Weltkrieg haben die Alliierten gesiegt."
+    },
+    {
+      "german": "fehlen",
+      "russian": "отсутствовать",
+      "english": "be absent",
+      "example": "Doch an Blumen fehlt's im Revier."
+    },
+    {
+      "german": "beklagen sich bei ",
+      "russian": "жаловаться на",
+      "english": "complain to",
+      "example": "Die Anwohner beklagten sich über die Lärmbelästigung durch den zunehmenden Verkehr."
+    },
+    {
+      "german": "sich verlassen auf",
+      "russian": "положиться на",
+      "english": "rely on",
+      "example": "Ich hatte mich auf deine Informationen verlassen!"
+    },
+    {
+      "german": "sich erinnern an ",
+      "russian": "вспоминать",
+      "english": "remember",
+      "example": "Ich erinnere mich an dich.  Ich erinnere mich deiner. Das ist ein Tag, an den er sich erinnern wollte."
+    },
+    {
+      "german": "sich beschweren bei D über Akk",
+      "russian": "пожаловаться",
+      "english": "complain to",
+      "example": "bei - кому-то, uber - о чем-то Über solche Zustände kann man sich nur beschweren."
+    },
+    {
+      "german": "sich fürchten vor D",
+      "russian": "бояться",
+      "english": "to be afraid of",
+      "example": "Der Tapfre fürchtet weder Tod noch Teufel."
+    },
+    {
+      "german": "sich freuen auf Akk über Akk ",
+      "russian": "радоваться",
+      "english": "be glad",
+      "example": "auf - будущее, über - прошлое Er wird sich freuen, wenn ich ihm das sage"
+    },
+    {
+      "german": "rechnen auf Akk mit D",
+      "russian": "рассчитывать",
+      "english": "count on",
+      "example": "auf - на, mit - считаться с  Damit hatten wir nicht gerechnet. Wir rechnen fest mit Ihnen."
+    },
+    {
+      "german": "sich beschäftigen mit",
+      "russian": "заниматься",
+      "english": "keep busy",
+      "example": "Dieses Problem beschäftigte ihn so sehr, dass er kaum Zeit für andere Tätigkeiten hatte."
+    },
+    {
+      "german": "sich bemühen um Akk",
+      "russian": "прилагать усилие для чего-то",
+      "english": "make an effort",
+      "example": "Würden Sie sich bitte etwas mehr bemühen? "
+    },
+    {
+      "german": "sich sorgen um Akk",
+      "russian": "беспокоюсь о",
+      "english": "worry about",
+      "example": "Eltern sorgen für ihre Kinder."
+    },
+    {
+      "german": "schämen sich",
+      "russian": "стыдиться",
+      "english": "to be ashamed",
+      "example": "Sie brauchen sich nicht Ihrer Taten zu schämen!"
+    },
+    {
+      "german": "blamieren",
+      "russian": "смущать, позорить",
+      "english": "embarrass",
+      "example": "Er hat sich mit seinen Tischmanieren vor der ganzen Gesellschaft unsterblich blamiert."
+    },
+    {
+      "german": "genieren sich",
+      "russian": "смущаться",
+      "english": "be embarrassed",
+      "example": "Ich geniere mich für mein Verhalten."
+    },
+    {
+      "german": "zweifeln",
+      "russian": "сомневаться",
+      "english": "doubt",
+      "example": "Ja, es stimmt, ich zweifle und kann mich nicht entscheiden."
+    },
+    {
+      "german": "um etwas verlegen sein",
+      "russian": "смущаться чего-то",
+      "english": "be embarrassed about something",
+      "example": "er ist immer um Geld verlegen"
+    },
+    {
+      "german": "zwingen",
+      "russian": "принуждать",
+      "english": "force",
+      "example": "Den zwinge ich ja mit dem kleinen Finger"
+    },
+    {
+      "german": "anfangen",
+      "russian": "начинать",
+      "english": "start",
+      "example": "Er fing langsam an mich zu stören."
+    },
+    {
+      "german": "absagen",
+      "russian": "отменять",
+      "english": "cancel",
+      "example": "absagen termin"
+    },
+    {
+      "german": "überprüfen",
+      "russian": "проверять",
+      "english": "check",
+      "example": "Ob der Apparat weiterhin funktioniert, muss noch überprüft werden."
+    },
+    {
+      "german": "nachschauen",
+      "russian": "проверить",
+      "english": "look, check",
+      "example": "Ich schau im Handy nach."
+    },
+    {
+      "german": "vermissen",
+      "russian": "скучать",
+      "english": "miss",
+      "example": "Ich vermisse dich."
+    },
+    {
+      "german": "sich entspannen",
+      "russian": "расслабляться",
+      "english": "relax",
+      "example": "Ich hab mich großartig entspannt"
+    },
+    {
+      "german": "verschieben",
+      "russian": "переносить",
+      "english": "postpone",
+      "example": "Wir können das Treffen leider nicht verschieben. Das Sofa müssen wir verschieben, wenn die neue Pflanze Platz haben soll."
+    },
+    {
+      "german": "bedeuten",
+      "russian": "означать",
+      "english": "mean",
+      "example": "Das englische Verb „to know“ bedeutet auf Deutsch soviel wie „wissen“."
+    },
+    {
+      "german": "geboren werden",
+      "russian": "родиться",
+      "english": "to be born",
+      "example": "Wenn immer weniger Kinder geboren werden, ändert sich mit der Zeit die Altersstruktur der Gesellschaft."
+    },
+    {
+      "german": "sich scheiden lassen",
+      "russian": "развестись",
+      "english": "get divorced",
+      "example": " Die beiden Leute ließen sich scheiden."
+    },
+    {
+      "german": "bummeln",
+      "russian": "бродить",
+      "english": "stroll",
+      "example": "Wir bummeln ohne Ziel durch die Stadt."
+    },
+    {
+      "german": "verstecken",
+      "russian": "прятать",
+      "english": "hide",
+      "example": "Wo hast du denn mein Notizbuch schon wieder versteckt?"
+    },
+    {
+      "german": "aufschreiben",
+      "russian": "записывать",
+      "english": "write down",
+      "example": "Ich muss mir die Telefonnummer aufschreiben, sonst vergesse ich sie."
+    },
+    {
+      "german": "sich ärgern",
+      "russian": "раздражать",
+      "english": "anger",
+      "example": "Ich ärgerte ihn ein bisschen."
+    },
+    {
+      "german": "sich baden",
+      "russian": "купаться",
+      "english": "swim",
+      "example": "Wir gehen heute baden."
+    },
+    {
+      "german": "sich bewegen",
+      "russian": "двигаться",
+      "english": "move",
+      "example": "Sie bewegte nur den kleinen Finger."
+    },
+    {
+      "german": "sich treffen",
+      "russian": "встречаться",
+      "english": "meet",
+      "example": "Sie am Wochenende zu treffen ist schwierig. Wir sollten uns treffen und darüber sprechen."
+    },
+    {
+      "german": "sich unterhalten mit",
+      "russian": "чат с",
+      "english": "chat with",
+      "example": "Wir müssen uns mal darüber unterhalten."
+    },
+    {
+      "german": "sich vorbereiten",
+      "russian": "готовиться",
+      "english": "prepare",
+      "example": "Ich muss mich noch auf die morgige Prüfung vorbereiten."
+    },
+    {
+      "german": "sich vorstellen",
+      "russian": "представиться",
+      "english": "introduce",
+      "example": "Darf ich mich vorstellen?"
+    },
+    {
+      "german": "sammeln",
+      "russian": "собирать",
+      "english": "gather, pick",
+      "example": "Ich sammle Briefmarken. Sie sammelten sich am Treffpunkt."
+    },
+    {
+      "german": "anzündern",
+      "russian": "зажечь (свечу)",
+      "english": "set fire to",
+      "example": "Er zündete das Streichholz an."
+    },
+    {
+      "german": "zaubern",
+      "russian": "колдовать",
+      "english": "perform magic",
+      "example": "Man sagte der Müllertochter nach, sie würde zaubern."
+    },
+    {
+      "german": "kratzen",
+      "russian": "царапать",
+      "english": "scratch",
+      "example": "Die Katze kratzte leise an der Tür."
+    },
+    {
+      "german": "fetzen",
+      "russian": "рвать",
+      "english": "rip",
+      "example": "Sie fetzt den Mantel ihres Bruders."
+    },
+    {
+      "german": "abschießen",
+      "russian": "застрелить",
+      "english": "shoot"
+    },
+    {
+      "german": "umtauschen",
+      "russian": "обменивать",
+      "english": "exchange",
+      "example": "kann ich den einfach umtauschen"
+    }
+  ],
+  "Verbrechen": [
+    {
+      "german": "fangen",
+      "russian": "ловить",
+      "english": "catch"
+    },
+    {
+      "german": "verfolgen",
+      "russian": "преследовать",
+      "english": "pursue"
+    },
+    {
+      "german": "verhaften",
+      "russian": "арестовывать",
+      "english": "arrest"
+    },
+    {
+      "german": "das Gefängnis",
+      "russian": "тюрьма",
+      "english": "prison"
+    },
+    {
+      "german": "handelnden personen",
+      "russian": "действующие лица",
+      "english": "acting persons"
+    },
+    {
+      "german": "der Verschwörung",
+      "russian": "заговор",
+      "english": "conspiracy"
+    },
+    {
+      "german": "misslungen",
+      "russian": "неудавшийся, безуспешный",
+      "english": "failed"
+    },
+    {
+      "german": "das Gift wirkt",
+      "russian": "яд действует",
+      "english": "the poison works"
+    },
+    {
+      "german": "ums Leben kommen",
+      "russian": "погибнуть",
+      "english": "lose their life"
+    },
+    {
+      "german": "das Steuer",
+      "russian": "налог",
+      "english": "Tax"
+    },
+    {
+      "german": "Steuererklärung",
+      "russian": "налоговая декларация",
+      "english": "tax declaration"
+    },
+    {
+      "german": "plündern",
+      "russian": "грабить",
+      "english": "plunder"
+    }
+  ],
+  "Stadt": [
+    {
+      "german": "die Gasse",
+      "russian": "переулок",
+      "english": "Alley"
+    },
+    {
+      "german": "die Ausstellung",
+      "russian": "выставка",
+      "english": "Exhibition"
+    },
+    {
+      "german": "der Ausflug",
+      "russian": "поездка, вылазка",
+      "english": "trip"
+    },
+    {
+      "german": "Besichtigung",
+      "russian": "осмотр достопримечательностей",
+      "english": "sightseeing"
+    },
+    {
+      "german": "die Führung, -en ",
+      "russian": "экскурсия",
+      "english": "guided tour"
+    },
+    {
+      "german": "der Kunst",
+      "russian": "искусство",
+      "english": "Art"
+    },
+    {
+      "german": "biegen",
+      "russian": "повернуть",
+      "english": "turn",
+      "example": "Biegen Sie dann links"
+    },
+    {
+      "german": "überqueren",
+      "russian": "пересечь",
+      "english": "cross over",
+      "example": "überqueren Sie die Strasse"
+    },
+    {
+      "german": "die Burg",
+      "russian": "крепость",
+      "english": "castle"
+    },
+    {
+      "german": "die Hütte ",
+      "russian": "хижина, лачуга",
+      "english": "hut"
+    },
+    {
+      "german": "das Wohnheim ",
+      "russian": "общежитие",
+      "english": "dorm"
+    },
+    {
+      "german": "das Hochhaus",
+      "russian": "многоэтажный ",
+      "english": "multistage"
+    },
+    {
+      "german": "die Stufe ",
+      "russian": "ступенька",
+      "english": "stair"
+    },
+    {
+      "german": "der Haltegriff",
+      "russian": "поручень",
+      "english": "handle"
+    },
+    {
+      "german": "der Führerschein",
+      "russian": "водительские права",
+      "english": "driving license"
+    },
+    {
+      "german": "halten",
+      "russian": "останавливаться",
+      "english": "stop"
+    },
+    {
+      "german": "aussteigen",
+      "russian": "выходить (из транспорта)",
+      "english": "exit"
+    },
+    {
+      "german": "einsteigen",
+      "russian": "садиться (в транспорт)\r",
+      "english": "get in"
+    },
+    {
+      "german": "umsteigen",
+      "russian": "пересаживаться",
+      "english": "transfer"
+    },
+    {
+      "german": "abfahren",
+      "russian": "отъезжать",
+      "english": "depart"
+    },
+    {
+      "german": "folgen",
+      "russian": "следоватъ",
+      "english": "follow"
+    },
+    {
+      "german": "der Hof",
+      "russian": "двор",
+      "english": "yard"
+    },
+    {
+      "german": "die Ampel",
+      "russian": "светофор",
+      "english": "traffic light"
+    },
+    {
+      "german": "das Denkmal",
+      "russian": "памятник",
+      "english": "monument"
+    },
+    {
+      "german": "der Vorort",
+      "russian": "пригород",
+      "english": "suburb"
+    },
+    {
+      "german": "der Zebrastreifen",
+      "russian": "зебра, пешеходный переход",
+      "english": "crosswalk"
+    },
+    {
+      "german": "der Krankenwagen, - ",
+      "russian": "машина скорой помощи",
+      "english": "ambulance"
+    },
+    {
+      "german": "die Kreuzung, -en ",
+      "russian": "перекресток",
+      "english": "intersection"
+    },
+    {
+      "german": "zu Fuß gehen",
+      "russian": "ходить пешком",
+      "english": "to walk"
+    },
+    {
+      "german": "Nehmen Sie die nächste Straße links",
+      "russian": "Поверните на следующей улице налево",
+      "english": "Take the next left"
+    },
+    {
+      "german": "die Ferien, -",
+      "russian": "каникулы",
+      "english": "holidays"
+    },
+    {
+      "german": "der Rundgang, (Rundgänge)",
+      "russian": "прогулка",
+      "english": "tour"
+    },
+    {
+      "german": "die Sehenswürdigkeit, -en ",
+      "russian": "достопримечательность",
+      "english": "sightseeing"
+    },
+    {
+      "german": "die Bühne, -n",
+      "russian": "сцена",
+      "english": "stage"
+    },
+    {
+      "german": "die Ermäßigung, -en ",
+      "russian": "скидка",
+      "english": "discount"
+    },
+    {
+      "german": "die Veranstaltung, -en ",
+      "russian": "мероприятие",
+      "english": "event"
+    },
+    {
+      "german": "der Vortrag, (Vorträge) ",
+      "russian": "лекция",
+      "english": "lecture"
+    },
+    {
+      "german": "der Verein",
+      "russian": "клуб",
+      "english": "club"
+    },
+    {
+      "german": "vorwärts",
+      "russian": "вперед",
+      "english": "forward"
+    },
+    {
+      "german": "rückwärts",
+      "russian": "назад",
+      "english": "backward"
+    },
+    {
+      "german": "seitwärts",
+      "russian": "в сторону",
+      "english": "sideways"
+    },
+    {
+      "german": "herein",
+      "russian": "внутрь",
+      "english": "inside"
+    },
+    {
+      "german": "herauf",
+      "russian": "наружу",
+      "english": "out of here"
+    }
+  ],
+  "Computer": [
+    {
+      "german": "die Tastatur",
+      "russian": "клавиатура",
+      "english": "keyboard"
+    },
+    {
+      "german": "die Zubehör",
+      "russian": "аксессуары",
+      "english": "accessories"
+    },
+    {
+      "german": "löschen",
+      "russian": "удалить",
+      "english": "delete"
+    },
+    {
+      "german": "speichern",
+      "russian": "сохранять",
+      "english": "save"
+    },
+    {
+      "german": "die Ordner",
+      "russian": "папка",
+      "english": "folder"
+    },
+    {
+      "german": "weiterleiten",
+      "russian": "передавать",
+      "english": "send on"
+    },
+    {
+      "german": "herunterladen",
+      "russian": "скачать",
+      "english": "download"
+    },
+    {
+      "german": "unter speichern",
+      "russian": "сохранить как",
+      "english": "save as"
+    },
+    {
+      "german": "die datai",
+      "russian": "данные",
+      "english": "data"
+    },
+    {
+      "german": "der Radiergummi, - s",
+      "russian": "ластик",
+      "english": "eraser"
+    },
+    {
+      "german": "das Heft, -e ",
+      "russian": "тетрадь",
+      "english": "booklet"
+    },
+    {
+      "german": "der Bleistift, -e",
+      "russian": "карандаш",
+      "english": "pencil"
+    },
+    {
+      "german": "die Schere, -n ",
+      "russian": "ножницы",
+      "english": "scissors"
+    },
+    {
+      "german": "die Tafel, -n",
+      "russian": "доска",
+      "english": "boards"
+    },
+    {
+      "german": "die Kreide, -n",
+      "russian": "мел",
+      "english": "chalk"
+    },
+    {
+      "german": "der Fehler, -",
+      "russian": "ошибка",
+      "english": "error"
+    },
+    {
+      "german": "der Zettel, - ",
+      "russian": "записка",
+      "english": "note"
+    },
+    {
+      "german": "die Nachricht, -en",
+      "russian": "новости",
+      "english": "news"
+    },
+    {
+      "german": "der Vertrag",
+      "russian": "договор, контракт",
+      "english": "contract"
+    },
+    {
+      "german": "die Probezeit",
+      "russian": "испытательный срок",
+      "english": "the probationary period"
+    },
+    {
+      "german": "der Aufgabenbereich",
+      "russian": "зона ответственности",
+      "english": "the area of responsibility"
+    },
+    {
+      "german": "die Bewerbung",
+      "russian": "резюме",
+      "english": "application"
+    },
+    {
+      "german": "das Einkommen",
+      "russian": "доход",
+      "english": "income"
+    },
+    {
+      "german": "die Erfahrung",
+      "russian": "опыт",
+      "english": "experience"
+    },
+    {
+      "german": "die Empfehlung",
+      "russian": "рекомендация",
+      "english": "recommendation"
+    },
+    {
+      "german": "die Bewertung",
+      "russian": "характеристика",
+      "english": "characteristic"
+    },
+    {
+      "german": "die Beförderung",
+      "russian": "продвижение по службе",
+      "english": "promotion"
+    },
+    {
+      "german": "sich anmelden",
+      "russian": "зарегистрироваться",
+      "english": "sign in"
+    }
+  ],
+  "Beschimpfung": [
+    {
+      "german": "der Wichser",
+      "russian": "придурок",
+      "english": "prick"
+    },
+    {
+      "german": "der Sonderling",
+      "russian": "чудак",
+      "english": "nerd"
+    },
+    {
+      "german": "der Pimmel",
+      "russian": "мудак, хуй",
+      "english": "prick"
+    },
+    {
+      "german": "Er redet doch bloß Scheisse",
+      "russian": "Он говорит ерунду",
+      "english": "He's just talking shit"
+    },
+    {
+      "german": "scharf auf dich",
+      "russian": "увлечен тобой",
+      "english": "keen on you"
+    },
+    {
+      "german": "die Fotze",
+      "russian": "пизда",
+      "english": "cunt"
+    },
+    {
+      "german": "klappe",
+      "russian": "заткнись",
+      "english": "shut up"
+    },
+    {
+      "german": "echte Deppen",
+      "russian": "настоящие идиоты",
+      "english": "real idiots"
+    },
+    {
+      "german": "ist mir doch furzegal",
+      "russian": "настрать",
+      "english": "don't give a shit"
+    },
+    {
+      "german": "heilige Scheiße",
+      "russian": "ебаный в рот",
+      "english": "holy shit"
+    },
+    {
+      "german": "ist ja Irre",
+      "russian": "это безумие",
+      "english": "that's crazy"
+    },
+    {
+      "german": "verrückt",
+      "russian": "безумие",
+      "english": "crazy"
+    },
+    {
+      "german": "fass mich nicht an",
+      "russian": "не трогайте меня",
+      "english": "do not touch me"
+    },
+    {
+      "german": "nimm die Pfoten weg",
+      "russian": "убери свои лапы",
+      "english": "take your paws away"
+    },
+    {
+      "german": "dummes Stück Scheiße",
+      "russian": "глупый кусок дерьма",
+      "english": "stupid piece of shit"
+    },
+    {
+      "german": "Ich bin erledigt",
+      "russian": "я в жопе",
+      "english": "im fucked up"
+    },
+    {
+      "german": "abartig fett",
+      "russian": "невероятно толстый",
+      "english": "incredibly fat"
+    },
+    {
+      "german": "der Kumpel",
+      "russian": "чувак",
+      "english": "buddy"
+    },
+    {
+      "german": "komm schon",
+      "russian": "да ладно",
+      "english": "come on"
+    },
+    {
+      "german": "ich verarschen dich",
+      "russian": "я тебя разыгрываю",
+      "english": "I'm kidding you"
+    },
+    {
+      "german": "blöde Trottel",
+      "russian": "глупые идиоты",
+      "english": "stupid idiots"
+    },
+    {
+      "german": "verdammte Scheiße",
+      "russian": "ебаный в рот",
+      "english": "holy shit"
+    },
+    {
+      "german": "der Blödsinn",
+      "russian": "чушь",
+      "english": "nonsense"
+    },
+    {
+      "german": "du bist doch gaga",
+      "russian": "ты псих",
+      "english": "you're crazy"
+    },
+    {
+      "german": "bring dich um",
+      "russian": "убейся",
+      "english": "kill youself"
+    },
+    {
+      "german": "der Schwachkopf",
+      "russian": "придурок",
+      "english": "moron"
+    },
+    {
+      "german": "die Weichei",
+      "russian": "неженка",
+      "english": "sissy"
+    },
+    {
+      "german": "scheiß auf euch alle",
+      "russian": "пошли вы все",
+      "english": "fuck you all"
+    },
+    {
+      "german": "der Arschloch",
+      "russian": "мудак",
+      "english": "asshole"
+    },
+    {
+      "german": "verkacken",
+      "russian": "обосраться",
+      "english": "screw up"
+    },
+    {
+      "german": "der Schwanzlutscher",
+      "russian": "членосос",
+      "english": "cocksucker"
+    },
+    {
+      "german": "Verdammt noch mal",
+      "russian": "чертв возьми",
+      "english": "bloody hell"
+    },
+    {
+      "german": "kiffen",
+      "russian": "курить травку",
+      "english": "smoke weed"
+    },
+    {
+      "german": "die Hure",
+      "russian": "шлюха",
+      "english": "whore"
+    },
+    {
+      "german": "was ist bloß los",
+      "russian": "что происходит",
+      "english": "what is happening"
+    },
+    {
+      "german": "die Schlampe",
+      "russian": "сука",
+      "english": "bitch"
+    },
+    {
+      "german": "Ich werde dir die Scheiße aus dem Leib ficken",
+      "russian": "Я собираюсь отделать тебя по полной",
+      "english": "I'm going to fuck the fuck out of you"
+    }
+  ]
+}
