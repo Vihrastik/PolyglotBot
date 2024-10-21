@@ -7,7 +7,6 @@ import com.telebot.user.UserResponse;
 import com.telebot.enums.InputType;
 import com.telebot.common.PhraseGenerator;
 import jakarta.annotation.Nullable;
-import org.jetbrains.annotations.NotNull;
 
 public class StartState implements StateHandler {
     @Nullable
@@ -21,7 +20,6 @@ public class StartState implements StateHandler {
         );
     }
 
-    @NotNull
     @Override
     public HandleResult handle(InputType type, String data) {
         if (StateHandler.isCommand(type, data, CommandId.BEGIN)) {

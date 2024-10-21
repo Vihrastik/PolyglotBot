@@ -7,7 +7,6 @@ import com.telebot.enums.InputType;
 import com.telebot.common.PhraseGenerator;
 import com.telebot.enums.SupportedLanguages;
 import jakarta.annotation.Nullable;
-import org.jetbrains.annotations.NotNull;
 
 import java.util.Arrays;
 
@@ -26,7 +25,6 @@ public class ChooseLangState implements StateHandler {
                 createLangCommands(null));
     }
 
-    @NotNull
     @Override
     public HandleResult handle(InputType type, String data) {
         var lang = findLanguageByCode(data);

@@ -15,7 +15,10 @@ public class Vocabulary {
     JSONObject vocabularyAll;
     List<String> vocabularyThemes;
     public List<String> vocabularyLanguages;
-    DbApplication dbApp;
+    DbApplication databaseApp;
+    public enum Language {
+        GERMAN, RUSSIAN, ENGLISH;
+    }
 
     public Vocabulary() {
         filename = ".//data/Wordschatz.json";
@@ -25,17 +28,20 @@ public class Vocabulary {
                 "\uD83C\uDDEC\uD83C\uDDE7 english");
     }
 
+    // Method to parse a JSON file and return it as a JSONObject
     public static JSONObject parseJSONFile(String filename) throws JSONException, IOException {
         String content = new String(Files.readAllBytes(Paths.get(filename)));
         return new JSONObject(content);
     }
 
+    // Method to get the list of themes from the JSON file
     public List<String> getThemesfromJSONFile() throws JSONException, IOException {
         vocabularyAll = parseJSONFile(filename);
         vocabularyThemes = new ArrayList<>(vocabularyAll.keySet());
         return vocabularyThemes;
     }
 
+    // Method to get words by theme and language from the JSON file
     public Map<String, List> getWordsByThemeAndLanguageJSONFile(String topic, String fromLand, String toLang) throws IOException {
         Map<String, List> wordsMap = new HashMap<>();
         JSONArray allWords = parseJSONFile(filename).getJSONArray(topic);
@@ -60,18 +66,18 @@ public class Vocabulary {
     }
 
     public List<String> getThemesFromDB() throws Exception {
-        dbApp = new DbApplication();
-        vocabularyThemes = dbApp.getAllTopics();
-        dbApp.closeConnection();
+        databaseApp = new DbApplication();
+        vocabularyThemes = databaseApp.getAllTopics();
+        databaseApp.closeConnection();
         return vocabularyThemes;
     }
 
     public Map<String, List> getWordsByThemeAndLanguageDB(String topic, String firstLang, String secondLang) throws Exception {
-        DbApplication dbApp = new DbApplication();
-        Integer topicId = dbApp.getTopicId(topic);
-        var firstLangWords = this.getWordsByTopic(dbApp, firstLang, topicId);
-        var secondLangWords = this.getWordsByTopic(dbApp, secondLang, topicId);
-        var translation = this.getTranslation(dbApp, firstLang, secondLang);
+        DbApplication databaseApp = new DbApplication();
+        Integer topicId = databaseApp.getTopicId(topic);
+        var firstLangWords = this.getWordsByTopic(databaseApp, firstLang, topicId);
+        var secondLangWords = this.getWordsByTopic(databaseApp, secondLang, topicId);
+        var translation = this.getTranslation(databaseApp, firstLang, secondLang);
 
         Map<String, List> wordsMap = new HashMap<>();
         for (Integer wordId : firstLangWords.keySet()) {
@@ -83,31 +89,39 @@ public class Vocabulary {
             }
             wordsMap.put(firstKey, secondKeys);
         }
-        dbApp.closeConnection();
+        databaseApp.closeConnection();
         return wordsMap;
     }
 
-    public Map<Integer, String> getWordsByTopic(DbApplication dbApp, String language, Integer topicId) throws Exception {
-        if (Objects.equals(language, "german")) {
-            return dbApp.getAllGermanWords(topicId);
-        } else if (Objects.equals(language, "russian")) {
-            return dbApp.getAllRussianWords(topicId);
+    // Method to get words by topic from the database depending on the language
+    public Map<Integer, String> getWordsByTopic(DbApplication databaseApp, String language, Integer topicId) throws Exception {
+        Language langEnum = Language.valueOf(language.toUpperCase());
+        if (langEnum == Language.GERMAN) {
+            return databaseApp.getAllGermanWords(topicId);
+        } else if (langEnum == Language.RUSSIAN) {
+            return databaseApp.getAllRussianWords(topicId);
+        } else if (langEnum == Language.ENGLISH) {
+            return databaseApp.getAllEnglishWords(topicId);
         } else {
-            return dbApp.getAllEnglishWords(topicId);
+            throw new Exception("Unsupported language");
         }
     }
 
-    public HashMap<Integer, List<Integer>> getTranslation(DbApplication dbApp, String firstLang, String secondLang) throws Exception {
-        boolean firstCond = Objects.equals(firstLang, "german") | Objects.equals(secondLang, "german");
-        boolean secondCond = Objects.equals(firstLang, "russian") | Objects.equals(secondLang, "russian");
-        boolean thirdCond = Objects.equals(firstLang, "english") | Objects.equals(secondLang, "english");
+    // Method to get translations between two languages
+    public HashMap<Integer, List<Integer>> getTranslation(DbApplication databaseApp, String firstLang, String secondLang) throws Exception {
+        Language firstLangEnum = Language.valueOf(firstLang.toUpperCase());
+        Language secondLangEnum = Language.valueOf(secondLang.toUpperCase());
+
+        boolean firstCond = firstLangEnum == Language.GERMAN | secondLangEnum == Language.GERMAN;
+        boolean secondCond = firstLangEnum == Language.RUSSIAN | secondLangEnum == Language.RUSSIAN;
+        boolean thirdCond = firstLangEnum == Language.ENGLISH | secondLangEnum == Language.ENGLISH;
         if (firstCond & secondCond) {
-            return dbApp.getAllTranslationsRusDe();
+            return databaseApp.getAllTranslationsRusDe();
         } else {
             if (firstCond & thirdCond) {
-                return dbApp.getAllTranslationsEngDe();
+                return databaseApp.getAllTranslationsEngDe();
             } else if (thirdCond & secondCond) {
-                return dbApp.getAllTranslationsRusEng();
+                return databaseApp.getAllTranslationsRusEng();
             } else {
                 throw new Exception("No such combination");
             }

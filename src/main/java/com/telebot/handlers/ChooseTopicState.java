@@ -7,8 +7,6 @@ import com.telebot.Vocabulary;
 import com.telebot.enums.InputType;
 import com.telebot.common.PhraseGenerator;
 import jakarta.annotation.Nullable;
-import org.jetbrains.annotations.NotNull;
-
 import java.util.Arrays;
 
 public class ChooseTopicState implements StateHandler {
@@ -23,7 +21,6 @@ public class ChooseTopicState implements StateHandler {
                 createTopicsCommands());
     }
 
-    @NotNull
     @Override
     public HandleResult handle(InputType type, String data) {
         if (type != InputType.COMMAND)  {

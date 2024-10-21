@@ -5,7 +5,6 @@ import com.telebot.user.UserResponse;
 import com.telebot.Vocabulary;
 import com.telebot.enums.InputType;
 import jakarta.annotation.Nullable;
-import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,7 +29,6 @@ public class LearningWordsState implements StateHandler {
                 String.format("Let's start with topic *%s*\n\nTranslate *%s*", topic, this.currentWord));
     }
 
-    @NotNull
     @Override
     public HandleResult handle(InputType type, String data) {
         if (type == InputType.COMMAND) {
