@@ -1,4 +1,5 @@
 package com.telebot.handlers;
+import org.jetbrains.annotations.NotNull;
 
 import com.telebot.user.UserCommand;
 import com.telebot.user.UserContext;
@@ -25,6 +26,7 @@ public class ChooseLangState implements StateHandler {
                 createLangCommands(null));
     }
 
+    @NotNull
     @Override
     public HandleResult handle(InputType type, String data) {
         var lang = findLanguageByCode(data);
