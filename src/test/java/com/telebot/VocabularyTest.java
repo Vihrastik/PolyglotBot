@@ -25,8 +25,6 @@ public class VocabularyTest {
 
     @Test
     public void testGetThemesFromJSONFile() throws Exception {
-        // Assume the JSON file is parsed correctly and contains themes
-
         List<String> themes = vocabulary.getThemesfromJSONFile();
         assertNotNull(themes);
         assertEquals(13, themes.size());
@@ -45,7 +43,6 @@ public class VocabularyTest {
 
     @Test
     public void testGetWordsByTopic_Russian() throws Exception {
-        // Mocking database response for Russian words
         Map<Integer, String> mockWords = new HashMap<>();
         mockWords.put(1, "собака");
         mockWords.put(2, "кошка");
@@ -60,7 +57,6 @@ public class VocabularyTest {
 
     @Test
     public void testGetTranslation_RussianToGerman() throws Exception {
-        // Mocking the database response for translation from Russian to German
         HashMap<Integer, List<Integer>> mockTranslations = new HashMap<>();
         mockTranslations.put(1, Arrays.asList(1, 2));
         when(databaseApp.getAllTranslationsRusDe()).thenReturn(mockTranslations);

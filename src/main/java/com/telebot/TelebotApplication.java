@@ -27,7 +27,8 @@ public class TelebotApplication implements LongPollingSingleThreadUpdateConsumer
     private final TelegramClient telegramClient;
     private final ConcurrentHashMap<Long, UserState> userState = new ConcurrentHashMap<>();
     private static final Logger logger = LoggerFactory.getLogger(TelebotApplication.class);
-    private record TeleInput(InputType type, String data) {
+
+    record TeleInput(InputType type, String data) {
     }
 
     public TelebotApplication(String botToken) {
@@ -51,7 +52,7 @@ public class TelebotApplication implements LongPollingSingleThreadUpdateConsumer
     }
 
     @Nullable
-    private Chat getChat(Update message) {
+    protected Chat getChat(Update message) {
         if (message.hasMessage()) {
             return message.getMessage().getChat();
         }
@@ -61,12 +62,12 @@ public class TelebotApplication implements LongPollingSingleThreadUpdateConsumer
         return null;
     }
 
-    private UserState getUserState(Chat chat) {
+    protected UserState getUserState(Chat chat) {
         return userState.computeIfAbsent(chat.getId(), id -> new UserState(chat.getFirstName()));
     }
 
     @Nullable
-    private TeleInput parseUpdate(Update message) {
+    protected TeleInput parseUpdate(Update message) {
         if (message.hasMessage()) {
             return new TeleInput(InputType.TEXT, message.getMessage().getText());
         }
@@ -77,7 +78,7 @@ public class TelebotApplication implements LongPollingSingleThreadUpdateConsumer
     }
 
 
-    private void processMessage(UserState userState, Chat chat, TeleInput message) {
+    protected void processMessage(UserState userState, Chat chat, TeleInput message) {
         try {
             // Determine the message type and select the appropriate processing
             List<SendMessage> responses = handleMessage(userState, chat, message);
@@ -92,7 +93,7 @@ public class TelebotApplication implements LongPollingSingleThreadUpdateConsumer
     }
 
     // Method to process a message depending on its type and content
-    private List<SendMessage> handleMessage(UserState userState, Chat chat, TeleInput message) throws Exception {
+    protected List<SendMessage> handleMessage(UserState userState, Chat chat, TeleInput message) throws Exception {
         if (LanguageChecker.isFWords(message.data())) {
             //If the message contains f words, send a random response
             return convertToTeleResponses(chat, new UserResponse(PhraseGenerator.getRandomFWordPhrase()));
@@ -103,7 +104,7 @@ public class TelebotApplication implements LongPollingSingleThreadUpdateConsumer
         }
     }
 
-    private void sendResponseWithRetry(SendMessage response) {
+    protected void sendResponseWithRetry(SendMessage response) {
         int retries = 3;
         while (retries-- > 0) {
             try {
@@ -137,6 +138,4 @@ public class TelebotApplication implements LongPollingSingleThreadUpdateConsumer
                         .build()
         );
     }
-
-
 }
