@@ -1,11 +1,11 @@
 package com.telebot.handlers;
 
+import com.telebot.Vocabulary;
+import com.telebot.common.PhraseGenerator;
+import com.telebot.enums.InputType;
 import com.telebot.user.UserCommand;
 import com.telebot.user.UserContext;
 import com.telebot.user.UserResponse;
-import com.telebot.Vocabulary;
-import com.telebot.enums.InputType;
-import com.telebot.common.PhraseGenerator;
 import jakarta.annotation.Nullable;
 import org.jetbrains.annotations.NotNull;
 
@@ -33,7 +33,7 @@ public class ChooseTopicState implements StateHandler {
         return HandleResult.switchToState(new LearningWordsState());
     }
 
-    private UserCommand[] createTopicsCommands() throws Exception {
+    public UserCommand[] createTopicsCommands() throws Exception {
         Vocabulary voc = new Vocabulary();
         var topics = voc.getThemesfromJSONFile();
         return Arrays.stream(topics.toArray())
