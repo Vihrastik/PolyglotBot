@@ -41,7 +41,7 @@ public class LanguageChecker {
     }
 
     public static boolean isSafeString(String str) {
-        String unsafeRegex = ".*['\";--].*";
+        String unsafeRegex = ".*['\";\\\\-].*";
         return !str.matches(unsafeRegex);
     }
 

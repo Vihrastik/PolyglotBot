@@ -4,6 +4,7 @@ import com.telebot.enums.InputType;
 import com.telebot.handlers.InitialState;
 import com.telebot.handlers.StateHandler;
 import jakarta.annotation.Nullable;
+import org.jetbrains.annotations.VisibleForTesting;
 
 public class UserState {
     private StateHandler state;
@@ -15,7 +16,11 @@ public class UserState {
         this.userContext = new UserContext(userName);
     }
 
-    //todo create ctor to load user state from database
+    @VisibleForTesting
+    public UserState(String userName, StateHandler initial) {
+        this.state = initial;
+        this.userContext = new UserContext(userName);
+    }
 
     /**
      * @param type - type of the data passed in second parameter
@@ -31,5 +36,11 @@ public class UserState {
         this.state = result.newState;
         return this.state.enter(userContext);
     }
+    public UserContext getUserContext() {
+        return this.userContext;
+    }
 
+    public StateHandler getUserState() {
+        return this.state;
+    }
 }
