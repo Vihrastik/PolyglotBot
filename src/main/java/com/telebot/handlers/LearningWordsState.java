@@ -62,5 +62,9 @@ public class LearningWordsState implements StateHandler {
         this.currentTranslation = this.wordsByTopic.get(this.currentWord);
     }
 
+    public String getCurrentWord(){
+        return this.currentWord;
+    }
+
 }
 
